@@ -1,9 +1,73 @@
 /*
+prioriteiten:
+1. beter de bal volgen
+2. kicken als hij naar het doel richt
+3. ...
+4. profit
+*/
+
+
+/*
  * standaardprogramma voor de bediening van de infrarood sensor
  *
  * 'Dir' staat voor richting, er zijn 5 richtingen mogelijk.
  * 's' staat voor de signaalsterkte, deze is (meestal) recht evenredig met de afstand
  */
+
+ #define LICHTSENSOR SENSOR_4
+ #define AFSTANDSSENSOR SensorUS(3)
+ #define ZIJBUFFER 50
+ #define WIT 60
+ 
+ 
+ int compaswaarde;
+task Compas()
+{
+ int compasbeginwaarde;
+ SetSensorLowspeed(IN_2);
+ compasbeginwaarde=SensorHTCompass(IN_2);
+ while(true)
+ {
+  compaswaarde=SensorHTCompass(IN_2)-compasbeginwaarde;
+  Wait(10);
+ }
+}
+
+ 
+void KickSmit()
+     {
+        if(compaswaarde < 0 || compaswaarde >= 180)
+         {
+           OnFwd(OUT_A, 50);
+           OnFwd(OUT_C, -50);
+           until(compaswaarde < 4 || compaswaarde > -4 || compaswaarde > 356);
+           Off(OUT_AC);
+           OnFwd(OUT_B, 100);
+           Wait(30);
+           OnFwd(OUT_B, -100);
+           Wait(30);
+         }
+         if(compaswaarde > 0 && compaswaarde < 180)
+         {
+           OnFwd(OUT_A, -50);
+           OnFwd(OUT_C, 50);
+           until(compaswaarde < 4 || compaswaarde > -4 || compaswaarde > 356);
+           Off(OUT_AC);
+           OnFwd(OUT_B, 100);
+           Wait(30);
+           OnFwd(OUT_B, -100);
+           Wait(30);
+         }
+         if(compaswaarde == 0)
+         {
+           Off(OUT_AC);
+           OnFwd(OUT_B, 100);
+           Wait(30);
+           OnFwd(OUT_B, -100);
+           Wait(30);
+         }
+         
+     }
 
 void Sturen(int richting, int afstand)
 {
@@ -19,10 +83,28 @@ void Sturen(int richting, int afstand)
      }
      if(richting == 5)
      {
-      OnFwd(OUT_AC, -80);
+      OnFwd(OUT_A, -100);
+      OnFwd(OUT_C, -80);
      }
 }
 
+void ZijLijn()
+{
+   if(LICHTSENSOR > WIT && AFSTANDSSENSOR < ZIJBUFFER){
+      OnFwd(OUT_C, 40);
+      OnFwd(OUT_A, -40);
+      Wait(500);
+      OnFwd(OUT_AC, 100);
+      Wait(500);
+    }
+    if(LICHTSENSOR > WIT && AFSTANDSSENSOR > ZIJBUFFER){
+      OnFwd(OUT_A, 40);
+      OnFwd(OUT_C, -40);
+      Wait(500);
+      OnFwd(OUT_AC, 100);
+      Wait(500);
+    }
+}
 
 //een effectievere maar praktisch overbodige mannier om text en getallen achter elkaar te zetten
 #define TextNumOut(xPos,yPos,str,col,num)  TextOut(xPos,yPos,str);NumOut(xPos+6*col,yPos,num)
@@ -83,17 +165,20 @@ void HTEnhancedIRSeekerV2(const byte  port, int &dir, int &strength)
 
 task main()
 {
+  start Compas;
   int richting, afstand;              			      //maak variabelen voor het opslaan van de gemeten waarden
-  SetSensorLowspeed(IN_4);				      //start de infraroodsensor, aangesloten op poort 1
+  SetSensorLowspeed(IN_1);				      //start de infraroodsensor, aangesloten op poort 1
   while(true)                                                 //start oneindige loop
   {
-    HTEnhancedIRSeekerV2(IN_4, richting, afstand);            //meet waarden van poort 1 en sla ze op
+    HTEnhancedIRSeekerV2(IN_1, richting, afstand);            //meet waarden van poort 1 en sla ze op
     TextNumOut(0, LCD_LINE3, "Dir:    ",4, richting);         //print richting
     TextNumOut(6, LCD_LINE4, "St:     ",3, afstand);          //print afstand
     Sturen(richting, afstand);
     Wait(100);                                                //wacht 10ms
+    
   }
 }
+
 
 
 
