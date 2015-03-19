@@ -18,8 +18,8 @@ prioriteiten:
  #define AFSTANDSSENSOR SensorUS(3)
  #define ZIJBUFFER 50
  #define WIT 60
- 
- 
+
+
  int compaswaarde;
 task Compas()
 {
@@ -33,40 +33,44 @@ task Compas()
  }
 }
 
- 
+
 void KickSmit()
      {
-        if(compaswaarde < 0 || compaswaarde >= 180)
+        if(compaswaarde < 0 || compaswaarde >= 180 || compaswaarde >=-180)
          {
            OnFwd(OUT_A, 50);
            OnFwd(OUT_C, -50);
-           until(compaswaarde < 4 || compaswaarde > -4 || compaswaarde > 356);
+           until(abs(compaswaarde) < 10 || compaswaarde > 356);
            Off(OUT_AC);
            OnFwd(OUT_B, 100);
-           Wait(30);
+           Wait(100);
            OnFwd(OUT_B, -100);
-           Wait(30);
+           Wait(100);
+           Off(OUT_B);
          }
-         if(compaswaarde > 0 && compaswaarde < 180)
+         if((compaswaarde > 0 && compaswaarde < 180) || compaswaarde<-180)
          {
            OnFwd(OUT_A, -50);
            OnFwd(OUT_C, 50);
-           until(compaswaarde < 4 || compaswaarde > -4 || compaswaarde > 356);
+           until(abs(compaswaarde) < 10 || compaswaarde > 356);
            Off(OUT_AC);
            OnFwd(OUT_B, 100);
-           Wait(30);
+           Wait(100);
            OnFwd(OUT_B, -100);
-           Wait(30);
+           Wait(100);
+           Off(OUT_B);
          }
          if(compaswaarde == 0)
          {
+         until(abs(compaswaarde) < 10 || compaswaarde > 356);
            Off(OUT_AC);
            OnFwd(OUT_B, 100);
-           Wait(30);
+           Wait(100);
            OnFwd(OUT_B, -100);
-           Wait(30);
+           Wait(100);
+           Off(OUT_B);
          }
-         
+
      }
 
 void Sturen(int richting, int afstand)
@@ -174,10 +178,15 @@ task main()
     TextNumOut(0, LCD_LINE3, "Dir:    ",4, richting);         //print richting
     TextNumOut(6, LCD_LINE4, "St:     ",3, afstand);          //print afstand
     Sturen(richting, afstand);
-    Wait(100);                                                //wacht 10ms
-    
+    Wait(100);
+    ClearLine(LCD_LINE5);                                                //wacht 10ms
+    NumOut(5, LCD_LINE5, compaswaarde);
+    if(afstand > 220){
+      KickSmit();
+    }
   }
 }
+
 
 
 
