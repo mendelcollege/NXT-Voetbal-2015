@@ -11,7 +11,7 @@ prioriteiten:
  #define ZIJBUFFER 50
  #define WIT 60
  
- void HTEnhancedIRSeekerV2(const byte  port, int &dir, int &strength)
+void HTEnhancedIRSeekerV2(const byte  port, int &dir, int &strength)
 {
   int cResp;
   byte cmdBuf[] = {0x10, 0x43};
@@ -68,10 +68,8 @@ int compaswaarde()
 
 void kicken()
 {
-   OnFwd(OUT_B, 100);
-   Wait(100);
-   OnFwd(OUT_B, -100);
-   Wait(100);
+   RotateMotor(OUT_B, 100, 25);
+   RotateMotor(OUT_B, 100, -25);
 }
 
 void richten()
@@ -142,14 +140,20 @@ task main()
   {
     HTEnhancedIRSeekerV2(IN_1, richting, afstand);
     TextNumOut(0, LCD_LINE3, "Dir:    ",4, richting);
-    TextNumOut(6, LCD_LINE4, "St:     ",3, afstand);
-    Sturen(richting, afstand);
-    Wait(100);
+    TextNumOut(6, LCD_LINE4, "Dis:    ",4, afstand);
+    //Wait(100);
     ClearLine(LCD_LINE5);
     NumOut(5, LCD_LINE5, compaswaarde());
 
-    if(afstand > 220){
-      richten();
+    if(afstand < 150)                                 //zoeken
+    {
+       TextOut(0, LCD_LINE7, "zoeken");
+       Sturen(richting, afstand);
+    }
+    if(afstand > 150 && richting == 5)                //kicken
+    {
+       TextOut(0, LCD_LINE7, "kicken");
+       richten();
     }
   }
 }
