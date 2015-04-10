@@ -93,12 +93,12 @@ void richten()
 
 void Sturen(int richting, int afstand)
 {
-     if(richting > 5)
+     if(richting < 5)
      {
       OnFwd(OUT_A, -35);
       OnFwd(OUT_C, 35);
      }
-     if(richting < 5)
+     if(richting > 5)
      {
       OnFwd(OUT_C, -35);
       OnFwd(OUT_A, 35);
