@@ -62,14 +62,15 @@ int compaswaarde()
  while(true)
  {
   return SensorHTCompass(IN_2)-beginwaarde;
-  Wait(10);
+  //Wait(10);
  }
 }
 
 void kicken()
 {
+   Off(OUT_AC);
    RotateMotor(OUT_B, 100, 25);
-   RotateMotor(OUT_B, 100, -25);
+   RotateMotor(OUT_B, -100, 25);
 }
 
 void richten()
