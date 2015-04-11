@@ -61,7 +61,9 @@ int compaswaarde()
 {
  while(true)
  {
-  return SensorHTCompass(IN_2)-beginwaarde;
+  //return SensorHTCompass(IN_2)-beginwaarde;
+  if(SensorHTCompass(IN_2)-beginwaarde <= 180) return SensorHTCompass(IN_2)-beginwaarde;
+  if(SensorHTCompass(IN_2)-beginwaarde > 180) return(SensorHTCompass(IN_2)-beginwaarde)-360;
   //Wait(10);
  }
 }
