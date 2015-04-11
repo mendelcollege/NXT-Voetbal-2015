@@ -1,196 +1,197 @@
 #SYMBOLS
 Index	Identifier	Type	Flag	Data	Size	RefCount
-0	__RLSBmutex2	9	0	0	4	4
-1	__RLSBmutex3	9	0	4	4	4
-2	__RLSBmutex0	9	0	8	4	4
-3	__RLSBmutex1	9	0	12	4	8
-4	__DU0HTEnhancedIRSeekerV2	5	1	16	4	6
-5	__D0kicken	6	1	20	4	4
-6	__D0compaswaarde	6	1	24	4	14
-7	__D0HTEnhancedIRSeekerV2	6	1	28	4	37
-8	__CLSRMutex3	9	0	32	4	2
-9	__CLSRMutex1	9	0	36	4	4
-10	__CLSCSMutex2	9	0	40	4	2
-11	__CLSCSMutex1	9	0	44	4	4
-12	__CLSWMutex1	9	0	48	4	4
-13	__CLSCSMutex3	9	0	52	4	2
-14	__CLSWMutex3	9	0	56	4	2
-15	__CLSWMutex2	9	0	60	4	2
-16	__CLSRMutex2	9	0	64	4	2
-17	__signed_stack_001main	6	1	68	4	20
-18	__signed_stack_002main	6	1	72	4	16
-19	__unsigned_stack_002HTEnhancedIRSeekerV2	5	1	76	4	4
-20	__signed_stack_001kicken	6	1	80	4	4
-21	__HTEnhancedIRSeekerV2_7qG2_dcSigSum_7qG2_000	6	1	84	4	8
-22	__HTEnhancedIRSeekerV2_7qG2_dcStr_7qG2_000	6	1	88	4	6
-23	__signed_stack_001richten	6	1	92	4	6
-24	__signed_stack_001Sturen	6	1	96	4	6
-25	__unsigned_stack_001HTEnhancedIRSeekerV2	5	1	100	4	4
-26	__D0Sturen	6	1	104	4	21
-27	__D0SetSensorLowspeed_inline_main	6	1	108	4	6
-28	__D0main	6	1	112	4	27
-29	__D0richten	6	1	116	4	19
-30	__signed_stack_002HTEnhancedIRSeekerV2	6	1	120	4	12
-31	__signed_stack_003HTEnhancedIRSeekerV2	6	1	124	4	4
+0	__CLSRMutex2	9	0	0	4	2
+1	__CLSCSMutex3	9	0	4	4	2
+2	__CLSCSMutex2	9	0	8	4	2
+3	__CLSWMutex2	9	0	12	4	2
+4	__signed_stack_001kicken	6	1	16	4	4
+5	__unsigned_stack_002HTEnhancedIRSeekerV2	5	1	20	4	4
+6	__CLSWMutex3	9	0	24	4	2
+7	__CLSRMutex3	9	0	28	4	2
+8	__signed_stack_001richten	6	1	32	4	6
+9	__CLSCSMutex1	9	0	36	4	4
+10	__signed_stack_001Sturen	6	1	40	4	8
+11	__CLSRMutex0	9	0	44	4	2
+12	__signed_stack_001main	6	1	48	4	20
+13	__CLSRMutex1	9	0	52	4	4
+14	__signed_stack_002main	6	1	56	4	16
+15	__CLSWMutex1	9	0	60	4	4
+16	__unsigned_stack_001HTEnhancedIRSeekerV2	5	1	64	4	4
+17	__D0richten	6	1	68	4	19
+18	__D0main	6	1	72	4	27
+19	__RLSBmutex3	9	0	76	4	4
+20	__D0Sturen	6	1	80	4	19
+21	__D0HTEnhancedIRSeekerV2	6	1	84	4	37
+22	__D0compaswaarde	6	1	88	4	14
+23	__D0kicken	6	1	92	4	4
+24	__DU0HTEnhancedIRSeekerV2	5	1	96	4	6
+25	__RLSBmutex1	9	0	100	4	8
+26	__signed_stack_002HTEnhancedIRSeekerV2	6	1	104	4	12
+27	__RLSBmutex0	9	0	108	4	4
+28	__signed_stack_003HTEnhancedIRSeekerV2	6	1	112	4	4
+29	__D0SetSensorLowspeed_inline_main	6	1	116	4	6
+30	__RLSBmutex2	9	0	120	4	4
+31	__signed_stack_001HTEnhancedIRSeekerV2	6	1	124	4	36
 32	__DU0SetSensorLowspeed_inline_main	5	1	128	4	4
-33	__signed_stack_001HTEnhancedIRSeekerV2	6	1	132	4	36
-34	__CLSRMutex0	9	0	136	4	2
-35	__CLSWMutex0	9	0	140	4	2
-36	__CLSCSMutex0	9	0	144	4	2
-37	__rotate_theAngle1	5	1	148	4	2
-38	__rotate_angle1	6	1	152	4	5
-39	__HTEnhancedIRSeekerV2_7qG2_iMax_7qG2_000	4	1	156	2	13
+33	__rotate_angle1	6	1	132	4	5
+34	__HTEnhancedIRSeekerV2_7qG2_dcStr_7qG2_000	6	1	136	4	6
+35	__rotate_theAngle1	5	1	140	4	2
+36	__HTEnhancedIRSeekerV2_7qG2_dcSigSum_7qG2_000	6	1	144	4	8
+37	__CLSCSMutex0	9	0	148	4	2
+38	__CLSWMutex0	9	0	152	4	2
+39	__Sturen_7qG2_richting_7qG2_000	4	1	156	2	4
 40	beginwaarde	4	1	158	2	2
-41	__constVal500	4	0	160	2	1
-42	__HTEnhancedIRSeekerV2_7qG2_strength_7qG2_000	4	1	162	2	7
-43	__HTEnhancedIRSeekerV2_7qG2_dir_7qG2_000	4	1	164	2	10
-44	__HTEnhancedIRSeekerV2_7qG2_i_7qG2_000	4	1	166	2	11
-45	__HTEnhancedIRSeekerV2_7qG2_cResp_7qG2_000	4	1	168	2	6
-46	__main_7qG2_afstand_7qG2_000	4	1	170	2	5
-47	__Sturen_7qG2_richting_7qG2_000	4	1	172	2	4
-48	__main_7qG2_richting_7qG2_000	4	1	174	2	5
-49	__rotate_OldRotCount1	4	1	176	2	2
-50	__rotate_RotCount1	4	1	178	2	4
-51	__rotate_theRVD1	1	1	180	1	3
-52	__rotate_stop1	1	1	181	1	3
-53	__rotate_sync1	1	1	182	1	3
-54	__zfSturen	1	1	183	1	9
-55	__rotate_firstPort1	1	1	184	1	5
-56	__rotate_turnpct1	2	1	185	1	4
-57	__rotate_theRS1	1	1	186	1	3
-58	__rotate_theRVP1	1	1	187	1	3
-59	__zfSetSensorLowspeed_inline_main	1	1	188	1	4
-60	__rotate_theRM1	1	1	189	1	4
-61	__rotate_theUF1	1	1	190	1	6
-62	__rotate_theOM1	1	1	191	1	7
-63	__rotate_theRVI1	1	1	192	1	3
-64	__constVal63	2	0	193	1	11
-65	__richten_return	1	1	194	1	3
-66	__kicken_return	1	1	195	1	3
-67	__constVal96	2	0	196	1	13
-68	__SetSensorLowspeed_7qG2_port_7qG2_000_inline_main	1	1	197	1	10
-69	__SetSensorLowspeed_7qG2_bIsPowered_7qG2_000_inline_main	1	1	198	1	4
-70	__Sturen_return	1	1	199	1	3
-71	____initialize_global_data_return	1	1	200	1	3
-72	__SetSensorType_7qG2_type_7qG2_000_inline_SetSensorLowspeed_inline_main	1	1	201	1	4
-73	__constVal67	2	0	202	1	1
-74	__HTEnhancedIRSeekerV2_7qG2_port_7qG2_000	1	1	203	1	3
-75	__HTEnhancedIRSeekerV2_return	1	1	204	1	3
-76	__rotate_power1	1	1	205	1	5
-77	__compaswaarde_return	1	1	206	1	7
-78	__SetSensorType_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main	1	1	207	1	4
-79	__HTEnhancedIRSeekerV2_7qG2_fSuccess_7qG2_000	1	1	208	1	2
-80	__zfrichten	1	1	209	1	9
-81	__RLSBIterations1	1	1	210	1	4
-82	__RLSBytesCount1	1	1	211	1	12
-83	__RLSBResult1	2	1	212	1	7
-84	__constVal1	2	0	213	1	23
-85	____ReadLSBytesVar_return	1	1	214	1	4
-86	__constVal32	2	0	215	1	38
-87	__constVal2	2	0	216	1	9
-88	__constVal0	2	1	217	1	52
-89	__ResetSensorPort	1	1	218	1	4
-90	__ResetSensorTmp	1	1	219	1	2
-91	____ResetSensorSubroutine_return	1	1	220	1	4
-92	__constVal3	2	0	221	1	11
-93	____ReadLSBytes1_return	1	1	222	1	4
-94	____RotateMotor1_return	1	1	223	1	4
-95	__ClearLine_7qG2_line_7qG2_000_inline_main	1	1	224	1	2
-96	__ResetSensor_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main	1	1	225	1	2
-97	__zfcompaswaarde	1	1	226	1	2
-98	__rotate_thePower1	2	1	227	1	4
+41	__HTEnhancedIRSeekerV2_7qG2_iMax_7qG2_000	4	1	160	2	13
+42	__rotate_OldRotCount1	4	1	162	2	2
+43	__main_7qG2_richting_7qG2_000	4	1	164	2	5
+44	__rotate_RotCount1	4	1	166	2	4
+45	__HTEnhancedIRSeekerV2_7qG2_strength_7qG2_000	4	1	168	2	7
+46	__HTEnhancedIRSeekerV2_7qG2_cResp_7qG2_000	4	1	170	2	6
+47	__constVal500	4	0	172	2	1
+48	__HTEnhancedIRSeekerV2_7qG2_dir_7qG2_000	4	1	174	2	10
+49	__main_7qG2_afstand_7qG2_000	4	1	176	2	5
+50	__HTEnhancedIRSeekerV2_7qG2_i_7qG2_000	4	1	178	2	11
+51	__zfrichten	1	1	180	1	9
+52	__Sturen_return	1	1	181	1	3
+53	____initialize_global_data_return	1	1	182	1	3
+54	__SetSensorLowspeed_7qG2_bIsPowered_7qG2_000_inline_main	1	1	183	1	4
+55	__zfHTEnhancedIRSeekerV2	1	1	184	1	33
+56	__SetSensorLowspeed_7qG2_port_7qG2_000_inline_main	1	1	185	1	10
+57	__SetSensorMode_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main	1	1	186	1	4
+58	__zfmain	1	1	187	1	12
+59	__zfSturen	1	1	188	1	9
+60	__constVal67	2	0	189	1	1
+61	__SetSensorType_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main	1	1	190	1	4
+62	__HTEnhancedIRSeekerV2_7qG2_fSuccess_7qG2_000	1	1	191	1	2
+63	__HTEnhancedIRSeekerV2_7qG2_port_7qG2_000	1	1	192	1	3
+64	__HTEnhancedIRSeekerV2_return	1	1	193	1	3
+65	__SetSensorType_7qG2_type_7qG2_000_inline_SetSensorLowspeed_inline_main	1	1	194	1	4
+66	__zfSetSensorLowspeed_inline_main	1	1	195	1	4
+67	__constVal63	2	0	196	1	10
+68	__richten_return	1	1	197	1	3
+69	__compaswaarde_return	1	1	198	1	7
+70	__kicken_return	1	1	199	1	3
+71	__constVal96	2	0	200	1	12
+72	__zfcompaswaarde	1	1	201	1	2
+73	____ResetSensorSubroutine_return	1	1	202	1	4
+74	__rotate_theRVP1	1	1	203	1	3
+75	__ResetSensorPort	1	1	204	1	4
+76	__ResetSensorTmp	1	1	205	1	2
+77	__rotate_theRS1	1	1	206	1	3
+78	__rotate_theUF1	1	1	207	1	6
+79	__rotate_turnpct1	2	1	208	1	4
+80	__rotate_theRM1	1	1	209	1	4
+81	__rotate_theOM1	1	1	210	1	7
+82	__constVal3	2	0	211	1	9
+83	__rotate_rs1	1	1	212	1	2
+84	__rotate_thePower1	2	1	213	1	4
+85	__rotate_theRVI1	1	1	214	1	3
+86	__rotate_theRVD1	1	1	215	1	3
+87	__rotate_theTurnPct1	2	1	216	1	4
+88	__constVal0	2	1	217	1	46
+89	____RotateMotor1_return	1	1	218	1	4
+90	__constVal32	2	0	219	1	35
+91	__constVal1	2	0	220	1	23
+92	__rotate_stop1	1	1	221	1	3
+93	__RLSBytesCountVar	1	1	222	1	10
+94	__RLSBIterationsVar	1	1	223	1	4
+95	__ResetSensor_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main	1	1	224	1	2
+96	__RLSBResultVar	2	1	225	1	9
+97	__SetSensorMode_7qG2_mode_7qG2_000_inline_SetSensorLowspeed_inline_main	1	1	226	1	4
+98	__constVal16	2	0	227	1	1
 99	__ArrHelper__HTEnhancedIRSeekerV2_98_0	1	1	228	1	25
-100	__rotate_theTurnPct1	2	1	229	1	4
-101	__SetSensorMode_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main	1	1	230	1	4
-102	__rotate_rs1	1	1	231	1	2
-103	__zfHTEnhancedIRSeekerV2	1	1	232	1	33
-104	__zfmain	1	1	233	1	12
-105	__SetSensorMode_7qG2_mode_7qG2_000_inline_SetSensorLowspeed_inline_main	1	1	234	1	4
-106	__RLSBIterationsVar	1	1	235	1	4
-107	__RLSBResultVar	2	1	236	1	9
-108	__RLSBytesCountVar	1	1	237	1	10
-109	__constVal16	2	0	238	1	1
-110	__RLSReadPort	1	1	239	1	5
-111	__CLSCSArgs1	8	0	3	4	4
-112	__CLSCSArgs1.Result	2	1	240	1	4
-113	__CLSCSArgs1.Port	1	1	241	1	4
-114	__CLSCSArgs1.BytesReady	1	1	242	1	4
-115	__CLSWArgs0	8	0	4	12	5
-116	__CLSWArgs0.Result	2	1	244	1	5
-117	__CLSWArgs0.Port	1	1	245	1	5
-118	__CLSWArgs0.Buffer	7	0	246	4	5
-119	__CLSWArgs0.Buffer.Buffer_type	1	0	0	1	0
-120	__CLSWArgs0.ReturnLen	1	1	248	1	5
-121	__CLSCSArgs0	8	0	3	4	4
-122	__CLSCSArgs0.Result	2	1	252	1	4
-123	__CLSCSArgs0.Port	1	1	253	1	4
-124	__CLSCSArgs0.BytesReady	1	1	254	1	4
-125	__CLSRArgs0	8	0	4	12	5
-126	__CLSRArgs0.Result	2	1	256	1	5
-127	__CLSRArgs0.Port	1	1	257	1	5
-128	__CLSRArgs0.Buffer	7	0	258	4	5
-129	__CLSRArgs0.Buffer.Buffer_type	1	0	0	1	0
-130	__CLSRArgs0.BufferLen	1	1	260	1	5
-131	__CLSWArgs1	8	0	4	12	5
-132	__CLSWArgs1.Result	2	1	264	1	5
-133	__CLSWArgs1.Port	1	1	265	1	5
-134	__CLSWArgs1.Buffer	7	0	266	4	5
-135	__CLSWArgs1.Buffer.Buffer_type	1	0	0	1	0
-136	__CLSWArgs1.ReturnLen	1	1	268	1	5
-137	__TextOutArgs	8	0	4	16	41
-138	__TextOutArgs.Result	2	1	272	1	41
-139	__TextOutArgs.Location	8	0	2	4	41
-140	__TextOutArgs.Location.X	4	1	276	2	41
-141	__TextOutArgs.Location.Y	4	1	278	2	41
-142	__TextOutArgs.Text	7	0	280	4	41
-143	__TextOutArgs.Text.Text_type	1	0	0	1	0
-144	__TextOutArgs.Options	5	1	284	4	41
-145	__CLSRArgs1	8	0	4	12	5
-146	__CLSRArgs1.Result	2	1	288	1	5
-147	__CLSRArgs1.Port	1	1	289	1	5
-148	__CLSRArgs1.Buffer	7	0	290	4	5
-149	__CLSRArgs1.Buffer.Buffer_type	1	0	0	1	0
-150	__CLSRArgs1.BufferLen	1	1	292	1	5
-151	__constStr0009	7	0	294	4	1
-152	__constStr0009.__constStr0009_type	1	1	0	1	0
-153	__constStr0012	7	0	296	4	1
-154	__constStr0012.__constStr0012_type	1	1	0	1	0
-155	__constStr0011	7	0	298	4	1
-156	__constStr0011.__constStr0011_type	1	1	0	1	0
-157	__constStr0010	7	0	300	4	1
-158	__constStr0010.__constStr0010_type	1	1	0	1	0
-159	__RLSBbufLSWrite1	7	0	302	4	2
-160	__RLSBbufLSWrite1.__RLSBbufLSWrite1_type	1	0	0	1	0
-161	__RLSLastGoodRead1	7	0	304	4	2
-162	__RLSLastGoodRead1.__RLSLastGoodRead1_type	1	0	0	1	0
-163	__BlankLine	7	0	306	4	1
-164	__BlankLine.__BlankLine_type	1	0	0	1	0
-165	__OUT_AC	7	0	308	4	1
-166	__OUT_AC.__OUT_AC_type	1	0	0	1	0
-167	__rotate_ports1	7	0	310	4	7
-168	__rotate_ports1.__rotate_ports1_type	1	0	0	1	0
-169	__RLSReadBuf1	7	0	312	4	12
-170	__RLSReadBuf1.__RLSReadBuf1_type	1	0	0	1	0
-171	__HTEnhancedIRSeekerV2_7qG2_cmdBuf_7qG2_000	7	0	314	4	5
-172	__HTEnhancedIRSeekerV2_7qG2_cmdBuf_7qG2_000.__HTEnhancedIRSeekerV2_7qG2_cmdBuf_7qG2_000_type	1	0	0	1	0
-173	__HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000	7	0	316	4	14
-174	__HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000.__HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000_type	1	0	0	1	0
-175	__strbufmain	7	0	318	4	8
-176	__strbufmain.__strbufmain_type	1	0	0	1	0
-177	__RLSLastGoodReadVar	7	0	320	4	2
-178	__RLSLastGoodReadVar.__RLSLastGoodReadVar_type	1	0	0	1	0
-179	__RLSReadBufVar	7	0	322	4	10
-180	__RLSReadBufVar.__RLSReadBufVar_type	1	0	0	1	0
+100	__RLSReadPort	1	1	229	1	5
+101	__constVal7	2	0	230	1	1
+102	____ReadLSBytesVar_return	1	1	231	1	4
+103	____ReadLSBytes1_return	1	1	232	1	4
+104	__rotate_firstPort1	1	1	233	1	5
+105	__rotate_sync1	1	1	234	1	3
+106	__ClearLine_7qG2_line_7qG2_000_inline_main	1	1	235	1	2
+107	__RLSBResult1	2	1	236	1	7
+108	__rotate_power1	1	1	237	1	5
+109	__constVal2	2	0	238	1	9
+110	__RLSBytesCount1	1	1	239	1	12
+111	__RLSBIterations1	1	1	240	1	4
+112	__CLSWArgs1	8	0	4	12	5
+113	__CLSWArgs1.Result	2	1	244	1	5
+114	__CLSWArgs1.Port	1	1	245	1	5
+115	__CLSWArgs1.Buffer	7	0	246	4	5
+116	__CLSWArgs1.Buffer.Buffer_type	1	0	0	1	0
+117	__CLSWArgs1.ReturnLen	1	1	248	1	5
+118	__CLSRArgs1	8	0	4	12	5
+119	__CLSRArgs1.Result	2	1	252	1	5
+120	__CLSRArgs1.Port	1	1	253	1	5
+121	__CLSRArgs1.Buffer	7	0	254	4	5
+122	__CLSRArgs1.Buffer.Buffer_type	1	0	0	1	0
+123	__CLSRArgs1.BufferLen	1	1	256	1	5
+124	__TextOutArgs	8	0	4	16	41
+125	__TextOutArgs.Result	2	1	260	1	41
+126	__TextOutArgs.Location	8	0	2	4	41
+127	__TextOutArgs.Location.X	4	1	264	2	41
+128	__TextOutArgs.Location.Y	4	1	266	2	41
+129	__TextOutArgs.Text	7	0	268	4	41
+130	__TextOutArgs.Text.Text_type	1	0	0	1	0
+131	__TextOutArgs.Options	5	1	272	4	41
+132	__CLSCSArgs1	8	0	3	4	4
+133	__CLSCSArgs1.Result	2	1	276	1	4
+134	__CLSCSArgs1.Port	1	1	277	1	4
+135	__CLSCSArgs1.BytesReady	1	1	278	1	4
+136	__CLSCSArgs0	8	0	3	4	4
+137	__CLSCSArgs0.Result	2	1	280	1	4
+138	__CLSCSArgs0.Port	1	1	281	1	4
+139	__CLSCSArgs0.BytesReady	1	1	282	1	4
+140	__CLSWArgs0	8	0	4	12	5
+141	__CLSWArgs0.Result	2	1	284	1	5
+142	__CLSWArgs0.Port	1	1	285	1	5
+143	__CLSWArgs0.Buffer	7	0	286	4	5
+144	__CLSWArgs0.Buffer.Buffer_type	1	0	0	1	0
+145	__CLSWArgs0.ReturnLen	1	1	288	1	5
+146	__CLSRArgs0	8	0	4	12	5
+147	__CLSRArgs0.Result	2	1	292	1	5
+148	__CLSRArgs0.Port	1	1	293	1	5
+149	__CLSRArgs0.Buffer	7	0	294	4	5
+150	__CLSRArgs0.Buffer.Buffer_type	1	0	0	1	0
+151	__CLSRArgs0.BufferLen	1	1	296	1	5
+152	__constStr0012	7	0	298	4	1
+153	__constStr0012.__constStr0012_type	1	1	0	1	0
+154	__constStr0009	7	0	300	4	1
+155	__constStr0009.__constStr0009_type	1	1	0	1	0
+156	__constStr0011	7	0	302	4	1
+157	__constStr0011.__constStr0011_type	1	1	0	1	0
+158	__constStr0010	7	0	304	4	1
+159	__constStr0010.__constStr0010_type	1	1	0	1	0
+160	__RLSBbufLSWrite1	7	0	306	4	2
+161	__RLSBbufLSWrite1.__RLSBbufLSWrite1_type	1	0	0	1	0
+162	__RLSLastGoodRead1	7	0	308	4	2
+163	__RLSLastGoodRead1.__RLSLastGoodRead1_type	1	0	0	1	0
+164	__BlankLine	7	0	310	4	1
+165	__BlankLine.__BlankLine_type	1	0	0	1	0
+166	__OUT_AC	7	0	312	4	2
+167	__OUT_AC.__OUT_AC_type	1	0	0	1	0
+168	__rotate_ports1	7	0	314	4	7
+169	__rotate_ports1.__rotate_ports1_type	1	0	0	1	0
+170	__RLSReadBuf1	7	0	316	4	12
+171	__RLSReadBuf1.__RLSReadBuf1_type	1	0	0	1	0
+172	__HTEnhancedIRSeekerV2_7qG2_cmdBuf_7qG2_000	7	0	318	4	5
+173	__HTEnhancedIRSeekerV2_7qG2_cmdBuf_7qG2_000.__HTEnhancedIRSeekerV2_7qG2_cmdBuf_7qG2_000_type	1	0	0	1	0
+174	__HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000	7	0	320	4	14
+175	__HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000.__HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000_type	1	0	0	1	0
+176	__strbufmain	7	0	322	4	8
+177	__strbufmain.__strbufmain_type	1	0	0	1	0
+178	__RLSLastGoodReadVar	7	0	324	4	2
+179	__RLSLastGoodReadVar.__RLSLastGoodReadVar_type	1	0	0	1	0
+180	__RLSReadBufVar	7	0	326	4	10
+181	__RLSReadBufVar.__RLSReadBufVar_type	1	0	0	1	0
 #SOURCES
 Clump	Line	PC	Source
-0	134	0	#line 134 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	135	0		subcall __initialize_global_data, ____initialize_global_data_return
+0	133	0	#line 133 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	134	0		subcall __initialize_global_data, ____initialize_global_data_return
+0	133	2	#line 133 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 0	134	2	#line 134 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	135	2	#line 135 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	136	2		set __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main, 0
+0	135	2		set __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main, 0
+0	134	5	#line 134 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 0	135	5	#line 135 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	136	5	#line 136 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	137	5		mov __SetSensorLowspeed_7qG2_bIsPowered_7qG2_000_inline_main, __constVal1
+0	136	5		mov __SetSensorLowspeed_7qG2_bIsPowered_7qG2_000_inline_main, __constVal1
 0	3758	7	#line 3758 "NXCDefs.h"
 0	3759	7		mov __SetSensorType_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main, __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main
 0	3758	9	#line 3758 "NXCDefs.h"
@@ -229,15 +230,15 @@ Clump	Line	PC	Source
 0	3695	42	#pragma macro 4
 0	3695	42		mov __ResetSensorPort, __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main
 0	3695	44		subcall __ResetSensorSubroutine, ____ResetSensorSubroutine_return
-0	7543	46	#line 7543 "NXCDefs.h"
+0	7542	46	#line 7542 "NXCDefs.h"
 0	3694	46	#line 3694 "NXCDefs.h"
 0	3761	46	#line 3761 "NXCDefs.h"
-0	136	46	#line 136 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	136	46	#line 136 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	137	46		set __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main, 1
+0	135	46	#line 135 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	135	46	#line 135 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	136	46		set __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main, 1
+0	135	49	#line 135 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 0	136	49	#line 136 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	137	49	#line 137 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	138	49		mov __SetSensorLowspeed_7qG2_bIsPowered_7qG2_000_inline_main, __constVal1
+0	137	49		mov __SetSensorLowspeed_7qG2_bIsPowered_7qG2_000_inline_main, __constVal1
 0	3758	51	#line 3758 "NXCDefs.h"
 0	3759	51		mov __SetSensorType_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main, __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main
 0	3758	53	#line 3758 "NXCDefs.h"
@@ -276,136 +277,136 @@ Clump	Line	PC	Source
 0	3695	86	#pragma macro 4
 0	3695	86		mov __ResetSensorPort, __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main
 0	3695	88		subcall __ResetSensorSubroutine, ____ResetSensorSubroutine_return
-0	7610	90	#line 7610 "NXCDefs.h"
+0	7609	90	#line 7609 "NXCDefs.h"
 0	3694	90	#line 3694 "NXCDefs.h"
 0	3761	90	#line 3761 "NXCDefs.h"
-0	137	90	#line 137 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	137	90	#line 137 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	138	90	#pragma macro 30
-0	138	90		acquire __RLSBmutex1
-0	138	91		mov __RLSReadBuf1, __RLSBbufLSWrite1
-0	138	93		set __RLSBytesCount1, 2
-0	138	96		subcall __ReadLSBytes1, ____ReadLSBytes1_return
-0	138	98		index __D0main, __RLSReadBuf1, 65535
-0	138	102		index __RLSBytesCount1, __RLSReadBuf1, __constVal1
-0	138	106		add __D0main, __D0main, __D0main
-0	138	110		add __D0main, __D0main, __RLSBytesCount1
-0	138	114		release __RLSBmutex1
-0	7615	115	#line 7615 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	139	115	#line 139 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	140	115		mov beginwaarde, __D0main
+0	136	90	#line 136 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	136	90	#line 136 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	137	90	#pragma macro 30
+0	137	90		acquire __RLSBmutex1
+0	137	91		mov __RLSReadBuf1, __RLSBbufLSWrite1
+0	137	93		set __RLSBytesCount1, 2
+0	137	96		subcall __ReadLSBytes1, ____ReadLSBytes1_return
+0	137	98		index __D0main, __RLSReadBuf1, 65535
+0	137	102		index __RLSBytesCount1, __RLSReadBuf1, __constVal1
+0	137	106		add __D0main, __D0main, __D0main
+0	137	110		add __D0main, __D0main, __RLSBytesCount1
+0	137	114		release __RLSBmutex1
+0	7614	115	#line 7614 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	138	115	#line 138 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	139	115		mov beginwaarde, __D0main
+0	138	117	#line 138 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 0	139	117	#line 139 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	140	117	#line 140 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	141	117		set __D0main, 1
-0	141	120	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	142	120		tst 5, __zfmain, __D0main
-0	141	123	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	142	123		brtst 4, __NXC_Label_810, __zfmain
-0	141	126	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	142	126		set __HTEnhancedIRSeekerV2_7qG2_port_7qG2_000, 0
-0	141	129	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	141	129	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	142	129		mov __HTEnhancedIRSeekerV2_7qG2_dir_7qG2_000, __main_7qG2_richting_7qG2_000
-0	141	131	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	142	131		mov __HTEnhancedIRSeekerV2_7qG2_strength_7qG2_000, __main_7qG2_afstand_7qG2_000
-0	142	133	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	133		subcall HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_return
-0	142	135	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	135		mov __main_7qG2_richting_7qG2_000, __HTEnhancedIRSeekerV2_7qG2_dir_7qG2_000
-0	142	137	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	137		mov __main_7qG2_afstand_7qG2_000, __HTEnhancedIRSeekerV2_7qG2_strength_7qG2_000
-0	142	139	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	142	139	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	139		set __signed_stack_001main, 0
-0	142	142	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	142	142	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	142		set __signed_stack_002main, 40
-0	142	145	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	142	145	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	145		strcat __strbufmain, __constStr0009
-0	142	149	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	142	149	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	149		mov __TextOutArgs.Location.X, __signed_stack_001main
-0	142	151	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	151		mov __TextOutArgs.Location.Y, __signed_stack_002main
-0	142	153	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	153		set __TextOutArgs.Options, 0
-0	142	156	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	156		mov __TextOutArgs.Text, __strbufmain
-0	142	158	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	158		syscall 13, __TextOutArgs
-0	142	161	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	142	161	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	142	161	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	142	161	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	161		set __signed_stack_001main, 24
-0	142	164	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	142	164	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	164		set __signed_stack_002main, 40
-0	142	167	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	142	167	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	167		mov __D0main, __main_7qG2_richting_7qG2_000
-0	143	169	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	169	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	144	169		mov __TextOutArgs.Location.X, __signed_stack_001main
-0	143	171	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	144	171		mov __TextOutArgs.Location.Y, __signed_stack_002main
-0	143	173	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	144	173		set __TextOutArgs.Options, 0
-0	143	176	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	144	176		numtostr __TextOutArgs.Text, __D0main
-0	143	179	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	144	179		syscall 13, __TextOutArgs
-0	143	182	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	182	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	182	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	182	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	144	182		set __signed_stack_001main, 6
-0	143	185	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	185	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	144	185		set __signed_stack_002main, 32
-0	143	188	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	188	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	144	188		strcat __strbufmain, __constStr0010
-0	143	192	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	192	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	144	192		mov __TextOutArgs.Location.X, __signed_stack_001main
-0	143	194	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	144	194		mov __TextOutArgs.Location.Y, __signed_stack_002main
-0	143	196	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	144	196		set __TextOutArgs.Options, 0
-0	143	199	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	144	199		mov __TextOutArgs.Text, __strbufmain
-0	143	201	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	144	201		syscall 13, __TextOutArgs
-0	143	204	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	204	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	204	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	204	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	144	204		set __signed_stack_001main, 30
-0	143	207	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	207	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	144	207		set __signed_stack_002main, 32
-0	143	210	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	143	210	#line 143 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	144	210		mov __D0main, __main_7qG2_afstand_7qG2_000
-0	145	212	#line 145 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	145	212	#line 145 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	146	212		mov __TextOutArgs.Location.X, __signed_stack_001main
-0	145	214	#line 145 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	146	214		mov __TextOutArgs.Location.Y, __signed_stack_002main
-0	145	216	#line 145 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	146	216		set __TextOutArgs.Options, 0
-0	145	219	#line 145 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	146	219		numtostr __TextOutArgs.Text, __D0main
-0	145	222	#line 145 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	146	222		syscall 13, __TextOutArgs
-0	145	225	#line 145 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	145	225	#line 145 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	145	225	#line 145 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	145	225	#line 145 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	146	225		set __ClearLine_7qG2_line_7qG2_000_inline_main, 24
-0	145	228	#line 145 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	140	117		set __D0main, 1
+0	140	120	#line 140 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	141	120		tst 5, __zfmain, __D0main
+0	140	123	#line 140 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	141	123		brtst 4, __NXC_Label_810, __zfmain
+0	140	126	#line 140 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	141	126		set __HTEnhancedIRSeekerV2_7qG2_port_7qG2_000, 0
+0	140	129	#line 140 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	140	129	#line 140 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	141	129		mov __HTEnhancedIRSeekerV2_7qG2_dir_7qG2_000, __main_7qG2_richting_7qG2_000
+0	140	131	#line 140 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	141	131		mov __HTEnhancedIRSeekerV2_7qG2_strength_7qG2_000, __main_7qG2_afstand_7qG2_000
+0	141	133	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	133		subcall HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_return
+0	141	135	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	135		mov __main_7qG2_richting_7qG2_000, __HTEnhancedIRSeekerV2_7qG2_dir_7qG2_000
+0	141	137	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	137		mov __main_7qG2_afstand_7qG2_000, __HTEnhancedIRSeekerV2_7qG2_strength_7qG2_000
+0	141	139	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	141	139	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	139		set __signed_stack_001main, 0
+0	141	142	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	141	142	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	142		set __signed_stack_002main, 40
+0	141	145	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	141	145	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	145		strcat __strbufmain, __constStr0009
+0	141	149	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	141	149	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	149		mov __TextOutArgs.Location.X, __signed_stack_001main
+0	141	151	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	151		mov __TextOutArgs.Location.Y, __signed_stack_002main
+0	141	153	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	153		set __TextOutArgs.Options, 0
+0	141	156	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	156		mov __TextOutArgs.Text, __strbufmain
+0	141	158	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	158		syscall 13, __TextOutArgs
+0	141	161	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	141	161	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	141	161	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	141	161	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	161		set __signed_stack_001main, 24
+0	141	164	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	141	164	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	164		set __signed_stack_002main, 40
+0	141	167	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	141	167	#line 141 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	167		mov __D0main, __main_7qG2_richting_7qG2_000
+0	142	169	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	169	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	143	169		mov __TextOutArgs.Location.X, __signed_stack_001main
+0	142	171	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	143	171		mov __TextOutArgs.Location.Y, __signed_stack_002main
+0	142	173	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	143	173		set __TextOutArgs.Options, 0
+0	142	176	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	143	176		numtostr __TextOutArgs.Text, __D0main
+0	142	179	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	143	179		syscall 13, __TextOutArgs
+0	142	182	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	182	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	182	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	182	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	143	182		set __signed_stack_001main, 6
+0	142	185	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	185	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	143	185		set __signed_stack_002main, 32
+0	142	188	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	188	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	143	188		strcat __strbufmain, __constStr0010
+0	142	192	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	192	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	143	192		mov __TextOutArgs.Location.X, __signed_stack_001main
+0	142	194	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	143	194		mov __TextOutArgs.Location.Y, __signed_stack_002main
+0	142	196	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	143	196		set __TextOutArgs.Options, 0
+0	142	199	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	143	199		mov __TextOutArgs.Text, __strbufmain
+0	142	201	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	143	201		syscall 13, __TextOutArgs
+0	142	204	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	204	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	204	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	204	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	143	204		set __signed_stack_001main, 30
+0	142	207	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	207	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	143	207		set __signed_stack_002main, 32
+0	142	210	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	142	210	#line 142 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	143	210		mov __D0main, __main_7qG2_afstand_7qG2_000
+0	144	212	#line 144 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	144	212	#line 144 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	145	212		mov __TextOutArgs.Location.X, __signed_stack_001main
+0	144	214	#line 144 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	145	214		mov __TextOutArgs.Location.Y, __signed_stack_002main
+0	144	216	#line 144 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	145	216		set __TextOutArgs.Options, 0
+0	144	219	#line 144 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	145	219		numtostr __TextOutArgs.Text, __D0main
+0	144	222	#line 144 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	145	222		syscall 13, __TextOutArgs
+0	144	225	#line 144 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	144	225	#line 144 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	144	225	#line 144 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	144	225	#line 144 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	145	225		set __ClearLine_7qG2_line_7qG2_000_inline_main, 24
+0	144	228	#line 144 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 0	6076	228	#line 6076 "NXCDefs.h"
 0	6077	228	#pragma macro 7
 0	6077	228		mov __TextOutArgs.Location.X, __constVal0
@@ -413,133 +414,133 @@ Clump	Line	PC	Source
 0	6077	232		mov __TextOutArgs.Options, __constVal0
 0	6077	234		mov __TextOutArgs.Text, __BlankLine
 0	6077	236		syscall 13, __TextOutArgs
-0	7786	239	#line 7786 "NXCDefs.h"
+0	7785	239	#line 7785 "NXCDefs.h"
 0	6076	239	#line 6076 "NXCDefs.h"
-0	146	239	#line 146 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	146	239	#line 146 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	147	239		set __signed_stack_001main, 5
-0	146	242	#line 146 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	146	242	#line 146 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	147	242		set __signed_stack_002main, 24
-0	146	245	#line 146 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	146	245	#line 146 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	147	245		subcall compaswaarde, __compaswaarde_return
-0	146	247	#line 146 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	147	247		mov __D0main, __D0compaswaarde
-0	148	249	#line 148 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	148	249	#line 148 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	149	249		mov __TextOutArgs.Location.X, __signed_stack_001main
-0	148	251	#line 148 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	149	251		mov __TextOutArgs.Location.Y, __signed_stack_002main
-0	148	253	#line 148 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	149	253		set __TextOutArgs.Options, 0
-0	148	256	#line 148 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	149	256		numtostr __TextOutArgs.Text, __D0main
-0	148	259	#line 148 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	149	259		syscall 13, __TextOutArgs
-0	148	262	#line 148 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	148	262	#line 148 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	148	262	#line 148 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	148	262	#line 148 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	149	262		mov __signed_stack_001main, __main_7qG2_afstand_7qG2_000
+0	145	239	#line 145 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	145	239	#line 145 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	146	239		set __signed_stack_001main, 5
+0	145	242	#line 145 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	145	242	#line 145 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	146	242		set __signed_stack_002main, 24
+0	145	245	#line 145 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	145	245	#line 145 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	146	245		subcall compaswaarde, __compaswaarde_return
+0	145	247	#line 145 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	146	247		mov __D0main, __D0compaswaarde
+0	147	249	#line 147 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	147	249	#line 147 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	148	249		mov __TextOutArgs.Location.X, __signed_stack_001main
+0	147	251	#line 147 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	148	251		mov __TextOutArgs.Location.Y, __signed_stack_002main
+0	147	253	#line 147 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	148	253		set __TextOutArgs.Options, 0
+0	147	256	#line 147 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	148	256		numtostr __TextOutArgs.Text, __D0main
+0	147	259	#line 147 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	148	259		syscall 13, __TextOutArgs
+0	147	262	#line 147 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	147	262	#line 147 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	147	262	#line 147 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	147	262	#line 147 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	148	262		mov __signed_stack_001main, __main_7qG2_afstand_7qG2_000
+0	147	264	#line 147 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 0	148	264	#line 148 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	149	264	#line 149 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	150	264		set __D0main, 150
-0	149	267	#line 149 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	150	267		cmp 0, __zfmain, __signed_stack_001main, __D0main
-0	149	271	#line 149 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	150	271		mov __D0main, __zfmain
-0	150	273	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	151	273		brtst 4, __NXC_Label_845, __zfmain
-0	150	276	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	151	276		set __signed_stack_001main, 0
-0	150	279	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	150	279	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	151	279		set __signed_stack_002main, 8
-0	150	282	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	150	282	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	151	282		strcat __strbufmain, __constStr0011
-0	151	286	#line 151 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	151	286	#line 151 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	152	286		mov __TextOutArgs.Location.X, __signed_stack_001main
-0	151	288	#line 151 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	152	288		mov __TextOutArgs.Location.Y, __signed_stack_002main
-0	151	290	#line 151 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	152	290		set __TextOutArgs.Options, 0
-0	151	293	#line 151 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	152	293		mov __TextOutArgs.Text, __strbufmain
-0	151	295	#line 151 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	152	295		syscall 13, __TextOutArgs
-0	151	298	#line 151 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	151	298	#line 151 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	151	298	#line 151 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	151	298	#line 151 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	152	298		mov __Sturen_7qG2_richting_7qG2_000, __main_7qG2_richting_7qG2_000
+0	149	264		set __D0main, 150
+0	148	267	#line 148 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	149	267		cmp 0, __zfmain, __signed_stack_001main, __D0main
+0	148	271	#line 148 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	149	271		mov __D0main, __zfmain
+0	149	273	#line 149 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	150	273		brtst 4, __NXC_Label_845, __zfmain
+0	149	276	#line 149 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	150	276		set __signed_stack_001main, 0
+0	149	279	#line 149 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	149	279	#line 149 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	150	279		set __signed_stack_002main, 8
+0	149	282	#line 149 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	149	282	#line 149 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	150	282		strcat __strbufmain, __constStr0011
+0	150	286	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	150	286	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	151	286		mov __TextOutArgs.Location.X, __signed_stack_001main
+0	150	288	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	151	288		mov __TextOutArgs.Location.Y, __signed_stack_002main
+0	150	290	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	151	290		set __TextOutArgs.Options, 0
+0	150	293	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	151	293		mov __TextOutArgs.Text, __strbufmain
+0	150	295	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	151	295		syscall 13, __TextOutArgs
+0	150	298	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	150	298	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	150	298	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	150	298	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	151	298		mov __Sturen_7qG2_richting_7qG2_000, __main_7qG2_richting_7qG2_000
+0	150	300	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	150	300	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	150	300	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 0	151	300	#line 151 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	151	300	#line 151 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	151	300	#line 151 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	152	300	#line 152 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	153	300		subcall Sturen, __Sturen_return
+0	152	300		subcall Sturen, __Sturen_return
+0	151	302	#line 151 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 0	152	302	#line 152 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	153	302	#line 153 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	153	302	#line 153 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	154	302		mov __signed_stack_001main, __main_7qG2_afstand_7qG2_000
-0	153	304	#line 153 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	153	304	#line 153 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	154	304		set __D0main, 150
-0	153	307	#line 153 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	154	307		cmp 1, __zfmain, __signed_stack_001main, __D0main
-0	153	311	#line 153 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	154	311		mov __D0main, __zfmain
-0	153	313	#line 153 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	154	313		brtst 4, __NXC_Label_855, __zfmain
-0	153	316	#line 153 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	154	316		mov __signed_stack_001main, __D0main
-0	153	318	#line 153 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	154	318		mov __signed_stack_002main, __main_7qG2_richting_7qG2_000
+0	152	302	#line 152 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	153	302		mov __signed_stack_001main, __main_7qG2_afstand_7qG2_000
+0	152	304	#line 152 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	152	304	#line 152 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	153	304		set __D0main, 150
+0	152	307	#line 152 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	153	307		cmp 1, __zfmain, __signed_stack_001main, __D0main
+0	152	311	#line 152 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	153	311		mov __D0main, __zfmain
+0	152	313	#line 152 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	153	313		brtst 4, __NXC_Label_855, __zfmain
+0	152	316	#line 152 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	153	316		mov __signed_stack_001main, __D0main
+0	152	318	#line 152 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	153	318		mov __signed_stack_002main, __main_7qG2_richting_7qG2_000
+0	152	320	#line 152 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 0	153	320	#line 153 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	154	320	#line 154 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	155	320		set __D0main, 5
-0	154	323	#line 154 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	155	323		cmp 4, __zfmain, __signed_stack_002main, __D0main
-0	154	327	#line 154 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	154	327	#line 154 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	155	327		and __D0main, __signed_stack_001main, __zfmain
-0	155	331	#line 155 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	156	331		tst 5, __zfmain, __D0main
-0	155	334	#line 155 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	156	334		brtst 4, __NXC_Label_856, __zfmain
-0	155	337	#line 155 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	156	337		set __signed_stack_001main, 0
-0	155	340	#line 155 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	155	340	#line 155 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	156	340		set __signed_stack_002main, 8
-0	155	343	#line 155 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	155	343	#line 155 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	156	343		strcat __strbufmain, __constStr0012
-0	156	347	#line 156 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	156	347	#line 156 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	157	347		mov __TextOutArgs.Location.X, __signed_stack_001main
-0	156	349	#line 156 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	157	349		mov __TextOutArgs.Location.Y, __signed_stack_002main
-0	156	351	#line 156 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	157	351		set __TextOutArgs.Options, 0
-0	156	354	#line 156 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	157	354		mov __TextOutArgs.Text, __strbufmain
-0	156	356	#line 156 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	157	356		syscall 13, __TextOutArgs
-0	156	359	#line 156 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	157	359		mov __D0main, __TextOutArgs.Result
+0	154	320		set __D0main, 5
+0	153	323	#line 153 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	154	323		cmp 4, __zfmain, __signed_stack_002main, __D0main
+0	153	327	#line 153 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	153	327	#line 153 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	154	327		and __D0main, __signed_stack_001main, __zfmain
+0	154	331	#line 154 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	155	331		tst 5, __zfmain, __D0main
+0	154	334	#line 154 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	155	334		brtst 4, __NXC_Label_856, __zfmain
+0	154	337	#line 154 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	155	337		set __signed_stack_001main, 0
+0	154	340	#line 154 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	154	340	#line 154 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	155	340		set __signed_stack_002main, 8
+0	154	343	#line 154 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	154	343	#line 154 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	155	343		strcat __strbufmain, __constStr0012
+0	155	347	#line 155 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	155	347	#line 155 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	156	347		mov __TextOutArgs.Location.X, __signed_stack_001main
+0	155	349	#line 155 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	156	349		mov __TextOutArgs.Location.Y, __signed_stack_002main
+0	155	351	#line 155 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	156	351		set __TextOutArgs.Options, 0
+0	155	354	#line 155 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	156	354		mov __TextOutArgs.Text, __strbufmain
+0	155	356	#line 155 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	156	356		syscall 13, __TextOutArgs
+0	155	359	#line 155 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	156	359		mov __D0main, __TextOutArgs.Result
+0	155	361	#line 155 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	155	361	#line 155 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 0	156	361	#line 156 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	156	361	#line 156 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	157	361	#line 157 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	158	361		subcall richten, __richten_return
-0	157	363	#line 157 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	159	363	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	161	363	#line 161 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	162	363		jmp __NXC_Label_809
-0	161	365	#line 161 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-0	162	365		exit -1, -1
+0	157	361		subcall richten, __richten_return
+0	156	363	#line 156 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	158	363	#line 158 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	160	363	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	161	363		jmp __NXC_Label_809
+0	160	365	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+0	161	365		exit -1, -1
 1	4529	0		brtst 4, __rotate_Done1, __rotate_angle1
 1	4530	3		sign __rotate_thePower1, __rotate_angle1
 1	4531	6		abs __rotate_theAngle1, __rotate_angle1
@@ -1237,20 +1238,20 @@ Clump	Line	PC	Source
 9	96	2	#line 96 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 9	97	2		set __D0Sturen, 5
 9	96	5	#line 96 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-9	97	5		cmp 1, __zfSturen, __signed_stack_001Sturen, __D0Sturen
+9	97	5		cmp 0, __zfSturen, __signed_stack_001Sturen, __D0Sturen
 9	96	9	#line 96 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 9	97	9		mov __D0Sturen, __zfSturen
 9	97	11	#line 97 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 9	98	11		brtst 4, __NXC_Label_758, __zfSturen
 9	97	14	#line 97 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-9	98	14		set __D0Sturen, -35
+9	98	14		set __D0Sturen, 35
 9	98	17	#line 98 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 9	99	17	#pragma macro 7
 9	99	17		setout __constVal0, 2, __D0Sturen, 1, __constVal3, 8, __constVal0, 6, __constVal32, 7, __constVal0, 5, __constVal0, 10, __constVal96, 11, __constVal32, 12, __constVal32, 0, __constVal63
 9	7205	40	#line 7205 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 9	98	40	#line 98 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 9	98	40	#line 98 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-9	99	40		set __D0Sturen, 35
+9	99	40		set __D0Sturen, -35
 9	99	43	#line 99 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 9	100	43	#pragma macro 7
 9	100	43		setout __constVal2, 2, __D0Sturen, 1, __constVal3, 8, __constVal0, 6, __constVal32, 7, __constVal0, 5, __constVal0, 10, __constVal96, 11, __constVal32, 12, __constVal32, 0, __constVal63
@@ -1263,7 +1264,7 @@ Clump	Line	PC	Source
 9	101	68	#line 101 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 9	102	68		set __D0Sturen, 5
 9	101	71	#line 101 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-9	102	71		cmp 0, __zfSturen, __signed_stack_001Sturen, __D0Sturen
+9	102	71		cmp 1, __zfSturen, __signed_stack_001Sturen, __D0Sturen
 9	101	75	#line 101 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 9	102	75		mov __D0Sturen, __zfSturen
 9	102	77	#line 102 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
@@ -1272,14 +1273,14 @@ Clump	Line	PC	Source
 9	103	80		set __D0Sturen, -35
 9	103	83	#line 103 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 9	104	83	#pragma macro 7
-9	104	83		setout __constVal2, 2, __D0Sturen, 1, __constVal3, 8, __constVal0, 6, __constVal32, 7, __constVal0, 5, __constVal0, 10, __constVal96, 11, __constVal32, 12, __constVal32, 0, __constVal63
+9	104	83		setout __constVal0, 2, __D0Sturen, 1, __constVal3, 8, __constVal0, 6, __constVal32, 7, __constVal0, 5, __constVal0, 10, __constVal96, 11, __constVal32, 12, __constVal32, 0, __constVal63
 9	7235	106	#line 7235 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 9	103	106	#line 103 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 9	103	106	#line 103 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 9	104	106		set __D0Sturen, 35
 9	104	109	#line 104 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 9	105	109	#pragma macro 7
-9	105	109		setout __constVal0, 2, __D0Sturen, 1, __constVal3, 8, __constVal0, 6, __constVal32, 7, __constVal0, 5, __constVal0, 10, __constVal96, 11, __constVal32, 12, __constVal32, 0, __constVal63
+9	105	109		setout __constVal2, 2, __D0Sturen, 1, __constVal3, 8, __constVal0, 6, __constVal32, 7, __constVal0, 5, __constVal0, 10, __constVal96, 11, __constVal32, 12, __constVal32, 0, __constVal63
 9	7242	132	#line 7242 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 9	104	132	#line 104 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 9	105	132	#line 105 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
@@ -1295,24 +1296,20 @@ Clump	Line	PC	Source
 9	107	143	#line 107 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
 9	108	143		brtst 4, __NXC_Label_772, __zfSturen
 9	107	146	#line 107 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-9	108	146		set __D0Sturen, -100
-9	108	149	#line 108 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-9	109	149	#pragma macro 7
-9	109	149		setout __constVal0, 2, __D0Sturen, 1, __constVal3, 8, __constVal0, 6, __constVal32, 7, __constVal0, 5, __constVal0, 10, __constVal96, 11, __constVal32, 12, __constVal32, 0, __constVal63
-9	7265	172	#line 7265 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-9	108	172	#line 108 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-9	108	172	#line 108 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-9	109	172		set __D0Sturen, -80
-9	109	175	#line 109 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-9	110	175	#pragma macro 7
-9	110	175		setout __constVal2, 2, __D0Sturen, 1, __constVal3, 8, __constVal0, 6, __constVal32, 7, __constVal0, 5, __constVal0, 10, __constVal96, 11, __constVal32, 12, __constVal32, 0, __constVal63
-9	7272	198	#line 7272 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-9	109	198	#line 109 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-9	112	198	#line 112 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-9	112	198	#line 112 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-9	113	198		subret __Sturen_return
-10	162	0	#line 162 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
-10	163	0		subret ____initialize_global_data_return
+9	108	146		set __signed_stack_001Sturen, -100
+9	107	149	#line 107 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+9	107	149	#line 107 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+9	108	149		set __D0Sturen, 0
+9	108	152	#line 108 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+9	109	152	#pragma macro 7
+9	109	152		setout __OUT_AC, 2, __signed_stack_001Sturen, 1, __constVal7, 8, __constVal2, 7, __D0Sturen, 6, __constVal32, 5, __constVal0, 10, __constVal96, 11, __constVal32, 12, __constVal32, 0, __constVal63
+9	7271	175	#line 7271 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+9	108	175	#line 108 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+9	111	175	#line 111 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+9	111	175	#line 111 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+9	112	175		subret __Sturen_return
+10	161	0	#line 161 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc"
+10	162	0		subret ____initialize_global_data_return
 #CLUMPS
 Clump	Name	Offset	File
 0	main	0	C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc
@@ -1325,4 +1322,4 @@ Clump	Name	Offset	File
 7	kicken	1187	C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc
 8	richten	1268	C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc
 9	Sturen	1427	C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc
-10	__initialize_global_data	1627	C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc
+10	__initialize_global_data	1604	C:\Users\Mees\Documents\GitHub\NXT-voetbal\aanvaller_versie_mees.nxc

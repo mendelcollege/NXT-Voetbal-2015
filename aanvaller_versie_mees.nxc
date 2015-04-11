@@ -93,21 +93,20 @@ void richten()
 
 void Sturen(int richting, int afstand)
 {
-     if(richting > 5)
-     {
+   if(richting < 5)
+   {
+      OnFwd(OUT_A, 35);
+      OnFwd(OUT_C, -35);
+   }
+   if(richting > 5)
+   {
       OnFwd(OUT_A, -35);
       OnFwd(OUT_C, 35);
-     }
-     if(richting < 5)
-     {
-      OnFwd(OUT_C, -35);
-      OnFwd(OUT_A, 35);
-     }
-     if(richting == 5)
-     {
-      OnFwd(OUT_A, -100);
-      OnFwd(OUT_C, -80);
-     }
+   }
+   if(richting == 5)
+   {
+      OnFwdSync(OUT_AC, -100, 0);
+   }
 }
 
 void ZijLijn()
