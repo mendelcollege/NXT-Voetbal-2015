@@ -1,0 +1,1526 @@
+#SYMBOLS
+Index	Identifier	Type	Flag	Data	Size	RefCount
+0	__TextOutMutex	9	0	0	4	18
+1	__RLSBmutex0	9	0	4	4	4
+2	__HTEnhancedIRSeekerV2_7qG2_dcStr_7qG2_000	6	1	8	4	6
+3	__HTEnhancedIRSeekerV2_7qG2_dcSigSum_7qG2_000	6	1	12	4	8
+4	__CLSCSMutex0	9	0	16	4	2
+5	__signed_stack_002main	6	1	20	4	20
+6	__signed_stack_001main	6	1	24	4	24
+7	__signed_stack_001richten	6	1	28	4	6
+8	__signed_stack_001Sturen	6	1	32	4	4
+9	__RLSBmutex1	9	0	36	4	8
+10	__CLSWMutex0	9	0	40	4	2
+11	__CLSRMutex2	9	0	44	4	4
+12	__CLSWMutex1	9	0	48	4	4
+13	__CLSRMutex1	9	0	52	4	4
+14	__CLSWMutex2	9	0	56	4	4
+15	__CLSCSMutex2	9	0	60	4	4
+16	__CLSRMutex0	9	0	64	4	2
+17	__CLSRMutex3	9	0	68	4	2
+18	__CLSWMutex3	9	0	72	4	2
+19	__CLSCSMutex3	9	0	76	4	2
+20	__CLSCSMutex1	9	0	80	4	4
+21	__D0Sturen	6	1	84	4	14
+22	__D0richten	6	1	88	4	19
+23	__D0SetSensorLight_inline_main	6	1	92	4	3
+24	__RLSBmutex3	9	0	96	4	4
+25	__DU0SetSensorLight_inline_main	5	1	100	4	2
+26	__D0main	6	1	104	4	39
+27	__DU0HTEnhancedIRSeekerV2	5	1	108	4	6
+28	__D0kicken	6	1	112	4	4
+29	__rotate_angle1	6	1	116	4	5
+30	__D0compaswaarde	6	1	120	4	12
+31	__D0HTEnhancedIRSeekerV2	6	1	124	4	37
+32	__unsigned_stack_001HTEnhancedIRSeekerV2	5	1	128	4	4
+33	__RLSBmutex2	9	0	132	4	6
+34	__unsigned_stack_002HTEnhancedIRSeekerV2	5	1	136	4	4
+35	__signed_stack_001kicken	6	1	140	4	4
+36	__rotate_theAngle1	5	1	144	4	2
+37	__signed_stack_003HTEnhancedIRSeekerV2	6	1	148	4	4
+38	__DU0SetSensorLowspeed_inline_main	5	1	152	4	6
+39	__D0SetSensorLowspeed_inline_main	6	1	156	4	9
+40	__signed_stack_001HTEnhancedIRSeekerV2	6	1	160	4	36
+41	__signed_stack_002HTEnhancedIRSeekerV2	6	1	164	4	12
+42	__HTEnhancedIRSeekerV2_7qG2_dir_7qG2_000	4	1	168	2	10
+43	__HTEnhancedIRSeekerV2_7qG2_strength_7qG2_000	4	1	170	2	7
+44	__rotate_RotCount1	4	1	172	2	4
+45	__main_7qG2_richting_7qG2_000	4	1	174	2	5
+46	__Sturen_7qG2_richting_7qG2_000	4	1	176	2	3
+47	__constVal500	4	0	178	2	1
+48	__main_7qG2_afstand_7qG2_000	4	1	180	2	5
+49	__rotate_OldRotCount1	4	1	182	2	2
+50	beginwaarde	4	1	184	2	2
+51	__HTEnhancedIRSeekerV2_7qG2_cResp_7qG2_000	4	1	186	2	6
+52	__HTEnhancedIRSeekerV2_7qG2_iMax_7qG2_000	4	1	188	2	13
+53	__HTEnhancedIRSeekerV2_7qG2_i_7qG2_000	4	1	190	2	11
+54	__zfSetSensorLight_inline_main	1	1	192	1	2
+55	__SetSensorLight_7qG2_port_7qG2_000_inline_main	1	1	193	1	4
+56	__SetSensorMode_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main	1	1	194	1	6
+57	__ResetSensor_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main	1	1	195	1	3
+58	__SetSensorMode_7qG2_mode_7qG2_000_inline_SetSensorLowspeed_inline_main	1	1	196	1	6
+59	__zfSturen	1	1	197	1	6
+60	__SetSensorMode_7qG2_port_7qG2_000_inline_SetSensorLight_inline_main	1	1	198	1	2
+61	__SetSensorType_7qG2_type_7qG2_000_inline_SetSensorLight_inline_main	1	1	199	1	2
+62	__HTEnhancedIRSeekerV2_return	1	1	200	1	3
+63	__SetSensorMode_7qG2_mode_7qG2_000_inline_SetSensorLight_inline_main	1	1	201	1	2
+64	__SetSensorLight_7qG2_bActive_7qG2_000_inline_main	1	1	202	1	2
+65	__zfrichten	1	1	203	1	9
+66	__SetSensorType_7qG2_port_7qG2_000_inline_SetSensorLight_inline_main	1	1	204	1	2
+67	__zfmain	1	1	205	1	12
+68	__SetSensorType_7qG2_type_7qG2_000_inline_SetSensorLowspeed_inline_main	1	1	206	1	6
+69	__constVal63	2	0	207	1	9
+70	__richten_return	1	1	208	1	3
+71	__Sturen_return	1	1	209	1	3
+72	__constVal96	2	0	210	1	11
+73	__compaswaarde_return	1	1	211	1	7
+74	__HTEnhancedIRSeekerV2_7qG2_port_7qG2_000	1	1	212	1	3
+75	__kicken_return	1	1	213	1	3
+76	__SetSensorLowspeed_7qG2_bIsPowered_7qG2_000_inline_main	1	1	214	1	6
+77	__zfSetSensorLowspeed_inline_main	1	1	215	1	6
+78	__SetSensorType_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main	1	1	216	1	6
+79	__SetSensorLowspeed_7qG2_port_7qG2_000_inline_main	1	1	217	1	15
+80	____initialize_global_data_return	1	1	218	1	3
+81	__HTEnhancedIRSeekerV2_7qG2_fSuccess_7qG2_000	1	1	219	1	2
+82	__constVal67	2	0	220	1	1
+83	__rotate_theRVP1	1	1	221	1	3
+84	__rotate_theRS1	1	1	222	1	3
+85	__rotate_theRVI1	1	1	223	1	3
+86	__rotate_rs1	1	1	224	1	2
+87	__rotate_theRVD1	1	1	225	1	3
+88	__RLSBResult1	2	1	226	1	7
+89	__RLSBytesCount1	1	1	227	1	12
+90	__rotate_theOM1	1	1	228	1	7
+91	__rotate_theRM1	1	1	229	1	4
+92	____ReadLSBytes1_return	1	1	230	1	4
+93	__constVal3	2	0	231	1	10
+94	____RotateMotor1_return	1	1	232	1	4
+95	____ResetSensorSubroutine_return	1	1	233	1	6
+96	__ResetSensorPort	1	1	234	1	6
+97	__ResetSensorTmp	1	1	235	1	2
+98	__rotate_theTurnPct1	2	1	236	1	4
+99	__rotate_thePower1	2	1	237	1	4
+100	__constVal32	2	0	238	1	32
+101	__constVal0	2	1	239	1	44
+102	__constVal1	2	0	240	1	26
+103	__RLSBIterationsVar	1	1	241	1	4
+104	__rotate_firstPort1	1	1	242	1	5
+105	__RLSBytesCountVar	1	1	243	1	10
+106	__rotate_sync1	1	1	244	1	3
+107	__RLSBResultVar	2	1	245	1	9
+108	__ArrHelper__HTEnhancedIRSeekerV2_98_0	1	1	246	1	25
+109	__zfHTEnhancedIRSeekerV2	1	1	247	1	33
+110	__constVal16	2	0	248	1	1
+111	__RLSReadPort	1	1	249	1	5
+112	__rotate_power1	1	1	250	1	5
+113	__rotate_turnpct1	2	1	251	1	4
+114	__RLSBResult2	2	1	252	1	7
+115	____ReadLSBytes2_return	1	1	253	1	3
+116	__RLSBIterations1	1	1	254	1	4
+117	__rotate_theUF1	1	1	255	1	6
+118	__constVal2	2	0	256	1	8
+119	____ReadLSBytesVar_return	1	1	257	1	4
+120	__rotate_stop1	1	1	258	1	3
+121	__RLSBytesCount2	1	1	259	1	7
+122	__RLSBIterations2	1	1	260	1	4
+123	__CLSCSArgs2	8	0	3	4	4
+124	__CLSCSArgs2.Result	2	1	264	1	4
+125	__CLSCSArgs2.Port	1	1	265	1	4
+126	__CLSCSArgs2.BytesReady	1	1	266	1	4
+127	__CLSRArgs1	8	0	4	12	5
+128	__CLSRArgs1.Result	2	1	268	1	5
+129	__CLSRArgs1.Port	1	1	269	1	5
+130	__CLSRArgs1.Buffer	7	0	270	4	5
+131	__CLSRArgs1.Buffer.Buffer_type	1	0	0	1	0
+132	__CLSRArgs1.BufferLen	1	1	272	1	5
+133	__CLSWArgs2	8	0	4	12	5
+134	__CLSWArgs2.Result	2	1	276	1	5
+135	__CLSWArgs2.Port	1	1	277	1	5
+136	__CLSWArgs2.Buffer	7	0	278	4	5
+137	__CLSWArgs2.Buffer.Buffer_type	1	0	0	1	0
+138	__CLSWArgs2.ReturnLen	1	1	280	1	5
+139	__TextOutArgs	8	0	4	16	54
+140	__TextOutArgs.Result	2	1	284	1	54
+141	__TextOutArgs.Location	8	0	2	4	54
+142	__TextOutArgs.Location.X	4	1	288	2	54
+143	__TextOutArgs.Location.Y	4	1	290	2	54
+144	__TextOutArgs.Text	7	0	292	4	54
+145	__TextOutArgs.Text.Text_type	1	0	0	1	0
+146	__TextOutArgs.Options	5	1	296	4	54
+147	__CLSRArgs2	8	0	4	12	5
+148	__CLSRArgs2.Result	2	1	300	1	5
+149	__CLSRArgs2.Port	1	1	301	1	5
+150	__CLSRArgs2.Buffer	7	0	302	4	5
+151	__CLSRArgs2.Buffer.Buffer_type	1	0	0	1	0
+152	__CLSRArgs2.BufferLen	1	1	304	1	5
+153	__CLSRArgs0	8	0	4	12	5
+154	__CLSRArgs0.Result	2	1	308	1	5
+155	__CLSRArgs0.Port	1	1	309	1	5
+156	__CLSRArgs0.Buffer	7	0	310	4	5
+157	__CLSRArgs0.Buffer.Buffer_type	1	0	0	1	0
+158	__CLSRArgs0.BufferLen	1	1	312	1	5
+159	__CLSWArgs0	8	0	4	12	5
+160	__CLSWArgs0.Result	2	1	316	1	5
+161	__CLSWArgs0.Port	1	1	317	1	5
+162	__CLSWArgs0.Buffer	7	0	318	4	5
+163	__CLSWArgs0.Buffer.Buffer_type	1	0	0	1	0
+164	__CLSWArgs0.ReturnLen	1	1	320	1	5
+165	__CLSCSArgs0	8	0	3	4	4
+166	__CLSCSArgs0.Result	2	1	324	1	4
+167	__CLSCSArgs0.Port	1	1	325	1	4
+168	__CLSCSArgs0.BytesReady	1	1	326	1	4
+169	__CLSCSArgs1	8	0	3	4	4
+170	__CLSCSArgs1.Result	2	1	328	1	4
+171	__CLSCSArgs1.Port	1	1	329	1	4
+172	__CLSCSArgs1.BytesReady	1	1	330	1	4
+173	__CLSWArgs1	8	0	4	12	5
+174	__CLSWArgs1.Result	2	1	332	1	5
+175	__CLSWArgs1.Port	1	1	333	1	5
+176	__CLSWArgs1.Buffer	7	0	334	4	5
+177	__CLSWArgs1.Buffer.Buffer_type	1	0	0	1	0
+178	__CLSWArgs1.ReturnLen	1	1	336	1	5
+179	__strbufmain	7	0	338	4	8
+180	__strbufmain.__strbufmain_type	1	0	0	1	0
+181	__constStr0010	7	0	340	4	1
+182	__constStr0010.__constStr0010_type	1	1	0	1	0
+183	__RLSReadBufVar	7	0	342	4	10
+184	__RLSReadBufVar.__RLSReadBufVar_type	1	0	0	1	0
+185	__rotate_ports1	7	0	344	4	7
+186	__rotate_ports1.__rotate_ports1_type	1	0	0	1	0
+187	__OUT_AC	7	0	346	4	1
+188	__OUT_AC.__OUT_AC_type	1	0	0	1	0
+189	__constStr0013	7	0	348	4	1
+190	__constStr0013.__constStr0013_type	1	1	0	1	0
+191	__constStr0011	7	0	350	4	1
+192	__constStr0011.__constStr0011_type	1	1	0	1	0
+193	__constStr0012	7	0	352	4	1
+194	__constStr0012.__constStr0012_type	1	1	0	1	0
+195	__RLSBbufLSWrite1	7	0	354	4	3
+196	__RLSBbufLSWrite1.__RLSBbufLSWrite1_type	1	0	0	1	0
+197	__RLSLastGoodRead1	7	0	356	4	2
+198	__RLSLastGoodRead1.__RLSLastGoodRead1_type	1	0	0	1	0
+199	__HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000	7	0	358	4	14
+200	__HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000.__HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000_type	1	0	0	1	0
+201	__HTEnhancedIRSeekerV2_7qG2_cmdBuf_7qG2_000	7	0	360	4	5
+202	__HTEnhancedIRSeekerV2_7qG2_cmdBuf_7qG2_000.__HTEnhancedIRSeekerV2_7qG2_cmdBuf_7qG2_000_type	1	0	0	1	0
+203	__RLSReadBuf2	7	0	362	4	8
+204	__RLSReadBuf2.__RLSReadBuf2_type	1	0	0	1	0
+205	__RLSLastGoodReadVar	7	0	364	4	2
+206	__RLSLastGoodReadVar.__RLSLastGoodReadVar_type	1	0	0	1	0
+207	__RLSReadBuf1	7	0	366	4	12
+208	__RLSReadBuf1.__RLSReadBuf1_type	1	0	0	1	0
+209	__RLSLastGoodRead2	7	0	368	4	2
+210	__RLSLastGoodRead2.__RLSLastGoodRead2_type	1	0	0	1	0
+#SOURCES
+Clump	Line	PC	Source
+0	148	0	#line 148 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	149	0		subcall __initialize_global_data, ____initialize_global_data_return
+0	148	2	#line 148 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	149	2	#line 149 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	150	2		set __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main, 0
+0	149	5	#line 149 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	150	5	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	151	5		mov __SetSensorLowspeed_7qG2_bIsPowered_7qG2_000_inline_main, __constVal1
+0	3758	7	#line 3758 "NXCDefs.h"
+0	3759	7		mov __SetSensorType_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main, __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main
+0	3758	9	#line 3758 "NXCDefs.h"
+0	3758	9	#line 3758 "NXCDefs.h"
+0	3759	9		mov __DU0SetSensorLowspeed_inline_main, __SetSensorLowspeed_7qG2_bIsPowered_7qG2_000_inline_main
+0	3758	11	#line 3758 "NXCDefs.h"
+0	3759	11		tst 5, __zfSetSensorLowspeed_inline_main, __DU0SetSensorLowspeed_inline_main
+0	3758	14	#line 3758 "NXCDefs.h"
+0	3759	14		brtst 4, __004__NXC_Label_36, __zfSetSensorLowspeed_inline_main
+0	3758	17	#line 3758 "NXCDefs.h"
+0	3759	17		set __D0SetSensorLowspeed_inline_main, 11
+0	3758	20	#line 3758 "NXCDefs.h"
+0	3759	20		jmp __004__NXC_Label_37
+0	3758	22	#line 3758 "NXCDefs.h"
+0	3759	22		set __D0SetSensorLowspeed_inline_main, 10
+0	3758	25	#line 3758 "NXCDefs.h"
+0	3759	25		mov __SetSensorType_7qG2_type_7qG2_000_inline_SetSensorLowspeed_inline_main, __D0SetSensorLowspeed_inline_main
+0	3663	27	#line 3663 "NXCDefs.h"
+0	3664	27		setin __SetSensorType_7qG2_type_7qG2_000_inline_SetSensorLowspeed_inline_main, __SetSensorType_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main, 0
+0	3663	31	#line 3663 "NXCDefs.h"
+0	3759	31	#line 3759 "NXCDefs.h"
+0	3759	31	#line 3759 "NXCDefs.h"
+0	3760	31		mov __SetSensorMode_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main, __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main
+0	3759	33	#line 3759 "NXCDefs.h"
+0	3759	33	#line 3759 "NXCDefs.h"
+0	3760	33		set __SetSensorMode_7qG2_mode_7qG2_000_inline_SetSensorLowspeed_inline_main, 0
+0	3759	36	#line 3759 "NXCDefs.h"
+0	3676	36	#line 3676 "NXCDefs.h"
+0	3677	36		setin __SetSensorMode_7qG2_mode_7qG2_000_inline_SetSensorLowspeed_inline_main, __SetSensorMode_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main, 1
+0	3676	40	#line 3676 "NXCDefs.h"
+0	3760	40	#line 3760 "NXCDefs.h"
+0	3760	40	#line 3760 "NXCDefs.h"
+0	3761	40		mov __ResetSensor_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main, __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main
+0	3760	42	#line 3760 "NXCDefs.h"
+0	3694	42	#line 3694 "NXCDefs.h"
+0	3695	42	#pragma macro 4
+0	3695	42		mov __ResetSensorPort, __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main
+0	3695	44		subcall __ResetSensorSubroutine, ____ResetSensorSubroutine_return
+0	7568	46	#line 7568 "NXCDefs.h"
+0	3694	46	#line 3694 "NXCDefs.h"
+0	3761	46	#line 3761 "NXCDefs.h"
+0	150	46	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	150	46	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	151	46		set __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main, 1
+0	150	49	#line 150 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	151	49	#line 151 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	152	49		mov __SetSensorLowspeed_7qG2_bIsPowered_7qG2_000_inline_main, __constVal1
+0	3758	51	#line 3758 "NXCDefs.h"
+0	3759	51		mov __SetSensorType_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main, __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main
+0	3758	53	#line 3758 "NXCDefs.h"
+0	3758	53	#line 3758 "NXCDefs.h"
+0	3759	53		mov __DU0SetSensorLowspeed_inline_main, __SetSensorLowspeed_7qG2_bIsPowered_7qG2_000_inline_main
+0	3758	55	#line 3758 "NXCDefs.h"
+0	3759	55		tst 5, __zfSetSensorLowspeed_inline_main, __DU0SetSensorLowspeed_inline_main
+0	3758	58	#line 3758 "NXCDefs.h"
+0	3759	58		brtst 4, __005__NXC_Label_36, __zfSetSensorLowspeed_inline_main
+0	3758	61	#line 3758 "NXCDefs.h"
+0	3759	61		set __D0SetSensorLowspeed_inline_main, 11
+0	3758	64	#line 3758 "NXCDefs.h"
+0	3759	64		jmp __005__NXC_Label_37
+0	3758	66	#line 3758 "NXCDefs.h"
+0	3759	66		set __D0SetSensorLowspeed_inline_main, 10
+0	3758	69	#line 3758 "NXCDefs.h"
+0	3759	69		mov __SetSensorType_7qG2_type_7qG2_000_inline_SetSensorLowspeed_inline_main, __D0SetSensorLowspeed_inline_main
+0	3663	71	#line 3663 "NXCDefs.h"
+0	3664	71		setin __SetSensorType_7qG2_type_7qG2_000_inline_SetSensorLowspeed_inline_main, __SetSensorType_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main, 0
+0	3663	75	#line 3663 "NXCDefs.h"
+0	3759	75	#line 3759 "NXCDefs.h"
+0	3759	75	#line 3759 "NXCDefs.h"
+0	3760	75		mov __SetSensorMode_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main, __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main
+0	3759	77	#line 3759 "NXCDefs.h"
+0	3759	77	#line 3759 "NXCDefs.h"
+0	3760	77		set __SetSensorMode_7qG2_mode_7qG2_000_inline_SetSensorLowspeed_inline_main, 0
+0	3759	80	#line 3759 "NXCDefs.h"
+0	3676	80	#line 3676 "NXCDefs.h"
+0	3677	80		setin __SetSensorMode_7qG2_mode_7qG2_000_inline_SetSensorLowspeed_inline_main, __SetSensorMode_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main, 1
+0	3676	84	#line 3676 "NXCDefs.h"
+0	3760	84	#line 3760 "NXCDefs.h"
+0	3760	84	#line 3760 "NXCDefs.h"
+0	3761	84		mov __ResetSensor_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main, __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main
+0	3760	86	#line 3760 "NXCDefs.h"
+0	3694	86	#line 3694 "NXCDefs.h"
+0	3695	86	#pragma macro 4
+0	3695	86		mov __ResetSensorPort, __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main
+0	3695	88		subcall __ResetSensorSubroutine, ____ResetSensorSubroutine_return
+0	7635	90	#line 7635 "NXCDefs.h"
+0	3694	90	#line 3694 "NXCDefs.h"
+0	3761	90	#line 3761 "NXCDefs.h"
+0	151	90	#line 151 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	151	90	#line 151 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	152	90	#pragma macro 30
+0	152	90		acquire __RLSBmutex1
+0	152	91		mov __RLSReadBuf1, __RLSBbufLSWrite1
+0	152	93		set __RLSBytesCount1, 2
+0	152	96		subcall __ReadLSBytes1, ____ReadLSBytes1_return
+0	152	98		index __D0main, __RLSReadBuf1, 65535
+0	152	102		index __RLSBytesCount1, __RLSReadBuf1, __constVal1
+0	152	106		add __D0main, __D0main, __D0main
+0	152	110		add __D0main, __D0main, __RLSBytesCount1
+0	152	114		release __RLSBmutex1
+0	7640	115	#line 7640 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	152	115	#line 152 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	153	115		mov beginwaarde, __D0main
+0	152	117	#line 152 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	152	117	#line 152 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	153	117		set __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main, 2
+0	152	120	#line 152 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	153	120	#line 153 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	154	120		mov __SetSensorLowspeed_7qG2_bIsPowered_7qG2_000_inline_main, __constVal1
+0	3758	122	#line 3758 "NXCDefs.h"
+0	3759	122		mov __SetSensorType_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main, __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main
+0	3758	124	#line 3758 "NXCDefs.h"
+0	3758	124	#line 3758 "NXCDefs.h"
+0	3759	124		mov __DU0SetSensorLowspeed_inline_main, __SetSensorLowspeed_7qG2_bIsPowered_7qG2_000_inline_main
+0	3758	126	#line 3758 "NXCDefs.h"
+0	3759	126		tst 5, __zfSetSensorLowspeed_inline_main, __DU0SetSensorLowspeed_inline_main
+0	3758	129	#line 3758 "NXCDefs.h"
+0	3759	129		brtst 4, __006__NXC_Label_36, __zfSetSensorLowspeed_inline_main
+0	3758	132	#line 3758 "NXCDefs.h"
+0	3759	132		set __D0SetSensorLowspeed_inline_main, 11
+0	3758	135	#line 3758 "NXCDefs.h"
+0	3759	135		jmp __006__NXC_Label_37
+0	3758	137	#line 3758 "NXCDefs.h"
+0	3759	137		set __D0SetSensorLowspeed_inline_main, 10
+0	3758	140	#line 3758 "NXCDefs.h"
+0	3759	140		mov __SetSensorType_7qG2_type_7qG2_000_inline_SetSensorLowspeed_inline_main, __D0SetSensorLowspeed_inline_main
+0	3663	142	#line 3663 "NXCDefs.h"
+0	3664	142		setin __SetSensorType_7qG2_type_7qG2_000_inline_SetSensorLowspeed_inline_main, __SetSensorType_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main, 0
+0	3663	146	#line 3663 "NXCDefs.h"
+0	3759	146	#line 3759 "NXCDefs.h"
+0	3759	146	#line 3759 "NXCDefs.h"
+0	3760	146		mov __SetSensorMode_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main, __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main
+0	3759	148	#line 3759 "NXCDefs.h"
+0	3759	148	#line 3759 "NXCDefs.h"
+0	3760	148		set __SetSensorMode_7qG2_mode_7qG2_000_inline_SetSensorLowspeed_inline_main, 0
+0	3759	151	#line 3759 "NXCDefs.h"
+0	3676	151	#line 3676 "NXCDefs.h"
+0	3677	151		setin __SetSensorMode_7qG2_mode_7qG2_000_inline_SetSensorLowspeed_inline_main, __SetSensorMode_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main, 1
+0	3676	155	#line 3676 "NXCDefs.h"
+0	3760	155	#line 3760 "NXCDefs.h"
+0	3760	155	#line 3760 "NXCDefs.h"
+0	3761	155		mov __ResetSensor_7qG2_port_7qG2_000_inline_SetSensorLowspeed_inline_main, __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main
+0	3760	157	#line 3760 "NXCDefs.h"
+0	3694	157	#line 3694 "NXCDefs.h"
+0	3695	157	#pragma macro 4
+0	3695	157		mov __ResetSensorPort, __SetSensorLowspeed_7qG2_port_7qG2_000_inline_main
+0	3695	159		subcall __ResetSensorSubroutine, ____ResetSensorSubroutine_return
+0	7709	161	#line 7709 "NXCDefs.h"
+0	3694	161	#line 3694 "NXCDefs.h"
+0	3761	161	#line 3761 "NXCDefs.h"
+0	153	161	#line 153 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	153	161	#line 153 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	154	161		set __SetSensorLight_7qG2_port_7qG2_000_inline_main, 3
+0	153	164	#line 153 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	155	164	#line 155 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	156	164		mov __SetSensorLight_7qG2_bActive_7qG2_000_inline_main, __constVal1
+0	3729	166	#line 3729 "NXCDefs.h"
+0	3730	166		mov __SetSensorType_7qG2_port_7qG2_000_inline_SetSensorLight_inline_main, __SetSensorLight_7qG2_port_7qG2_000_inline_main
+0	3729	168	#line 3729 "NXCDefs.h"
+0	3729	168	#line 3729 "NXCDefs.h"
+0	3730	168		mov __DU0SetSensorLight_inline_main, __SetSensorLight_7qG2_bActive_7qG2_000_inline_main
+0	3729	170	#line 3729 "NXCDefs.h"
+0	3730	170		tst 5, __zfSetSensorLight_inline_main, __DU0SetSensorLight_inline_main
+0	3729	173	#line 3729 "NXCDefs.h"
+0	3730	173		brtst 4, __001__NXC_Label_4, __zfSetSensorLight_inline_main
+0	3729	176	#line 3729 "NXCDefs.h"
+0	3730	176		set __D0SetSensorLight_inline_main, 5
+0	3729	179	#line 3729 "NXCDefs.h"
+0	3730	179		jmp __001__NXC_Label_5
+0	3729	181	#line 3729 "NXCDefs.h"
+0	3730	181		set __D0SetSensorLight_inline_main, 6
+0	3729	184	#line 3729 "NXCDefs.h"
+0	3730	184		mov __SetSensorType_7qG2_type_7qG2_000_inline_SetSensorLight_inline_main, __D0SetSensorLight_inline_main
+0	3663	186	#line 3663 "NXCDefs.h"
+0	3664	186		setin __SetSensorType_7qG2_type_7qG2_000_inline_SetSensorLight_inline_main, __SetSensorType_7qG2_port_7qG2_000_inline_SetSensorLight_inline_main, 0
+0	3663	190	#line 3663 "NXCDefs.h"
+0	3730	190	#line 3730 "NXCDefs.h"
+0	3730	190	#line 3730 "NXCDefs.h"
+0	3731	190		mov __SetSensorMode_7qG2_port_7qG2_000_inline_SetSensorLight_inline_main, __SetSensorLight_7qG2_port_7qG2_000_inline_main
+0	3730	192	#line 3730 "NXCDefs.h"
+0	3730	192	#line 3730 "NXCDefs.h"
+0	3731	192		set __SetSensorMode_7qG2_mode_7qG2_000_inline_SetSensorLight_inline_main, 128
+0	3730	195	#line 3730 "NXCDefs.h"
+0	3676	195	#line 3676 "NXCDefs.h"
+0	3677	195		setin __SetSensorMode_7qG2_mode_7qG2_000_inline_SetSensorLight_inline_main, __SetSensorMode_7qG2_port_7qG2_000_inline_SetSensorLight_inline_main, 1
+0	3676	199	#line 3676 "NXCDefs.h"
+0	3731	199	#line 3731 "NXCDefs.h"
+0	3731	199	#line 3731 "NXCDefs.h"
+0	3731	199	#line 3731 "NXCDefs.h"
+0	3694	199	#line 3694 "NXCDefs.h"
+0	3695	199	#pragma macro 4
+0	3695	199		mov __ResetSensorPort, __SetSensorLight_7qG2_port_7qG2_000_inline_main
+0	3695	201		subcall __ResetSensorSubroutine, ____ResetSensorSubroutine_return
+0	7804	203	#line 7804 "NXCDefs.h"
+0	3694	203	#line 3694 "NXCDefs.h"
+0	3732	203	#line 3732 "NXCDefs.h"
+0	155	203	#line 155 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	156	203	#line 156 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	157	203		set __D0main, 1
+0	158	206	#line 158 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	159	206		tst 5, __zfmain, __D0main
+0	158	209	#line 158 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	159	209		brtst 4, __NXC_Label_824, __zfmain
+0	158	212	#line 158 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	159	212		set __HTEnhancedIRSeekerV2_7qG2_port_7qG2_000, 0
+0	158	215	#line 158 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	158	215	#line 158 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	159	215		mov __HTEnhancedIRSeekerV2_7qG2_dir_7qG2_000, __main_7qG2_richting_7qG2_000
+0	158	217	#line 158 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	159	217		mov __HTEnhancedIRSeekerV2_7qG2_strength_7qG2_000, __main_7qG2_afstand_7qG2_000
+0	159	219	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	219		subcall HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_return
+0	159	221	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	221		mov __main_7qG2_richting_7qG2_000, __HTEnhancedIRSeekerV2_7qG2_dir_7qG2_000
+0	159	223	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	223		mov __main_7qG2_afstand_7qG2_000, __HTEnhancedIRSeekerV2_7qG2_strength_7qG2_000
+0	159	225	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	159	225	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	225		set __signed_stack_001main, 0
+0	159	228	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	159	228	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	228		set __signed_stack_002main, 40
+0	159	231	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	159	231	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	231		strcat __strbufmain, __constStr0010
+0	159	235	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	235		acquire __TextOutMutex
+0	159	236	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	236		mov __TextOutArgs.Location.X, __signed_stack_001main
+0	159	239	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	239		mov __TextOutArgs.Location.Y, __signed_stack_002main
+0	159	242	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	242		set __TextOutArgs.Options, 0
+0	159	245	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	245		mov __TextOutArgs.Text, __strbufmain
+0	159	247	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	247		syscall 13, __TextOutArgs
+0	159	250	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	250		mov __D0main, __TextOutArgs.Result
+0	159	252	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	252		release __TextOutMutex
+0	159	253	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	159	253	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	253		set __signed_stack_001main, 24
+0	159	256	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	159	256	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	256		set __signed_stack_002main, 40
+0	159	259	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	159	259	#line 159 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	259		mov __D0main, __main_7qG2_richting_7qG2_000
+0	160	261	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	261		acquire __TextOutMutex
+0	160	262	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	262		mov __TextOutArgs.Location.X, __signed_stack_001main
+0	160	265	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	265		mov __TextOutArgs.Location.Y, __signed_stack_002main
+0	160	268	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	268		set __TextOutArgs.Options, 0
+0	160	271	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	271		numtostr __TextOutArgs.Text, __D0main
+0	160	274	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	274		syscall 13, __TextOutArgs
+0	160	277	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	277		mov __D0main, __TextOutArgs.Result
+0	160	279	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	279		release __TextOutMutex
+0	160	280	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	280	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	280		set __signed_stack_001main, 6
+0	160	283	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	283	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	283		set __signed_stack_002main, 32
+0	160	286	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	286	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	286		strcat __strbufmain, __constStr0011
+0	160	290	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	290		acquire __TextOutMutex
+0	160	291	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	291		mov __TextOutArgs.Location.X, __signed_stack_001main
+0	160	294	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	294		mov __TextOutArgs.Location.Y, __signed_stack_002main
+0	160	297	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	297		set __TextOutArgs.Options, 0
+0	160	300	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	300		mov __TextOutArgs.Text, __strbufmain
+0	160	302	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	302		syscall 13, __TextOutArgs
+0	160	305	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	305		mov __D0main, __TextOutArgs.Result
+0	160	307	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	307		release __TextOutMutex
+0	160	308	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	308	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	308		set __signed_stack_001main, 30
+0	160	311	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	311	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	311		set __signed_stack_002main, 32
+0	160	314	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	160	314	#line 160 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	161	314		mov __D0main, __main_7qG2_afstand_7qG2_000
+0	162	316	#line 162 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	163	316		acquire __TextOutMutex
+0	162	317	#line 162 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	163	317		mov __TextOutArgs.Location.X, __signed_stack_001main
+0	162	320	#line 162 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	163	320		mov __TextOutArgs.Location.Y, __signed_stack_002main
+0	162	323	#line 162 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	163	323		set __TextOutArgs.Options, 0
+0	162	326	#line 162 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	163	326		numtostr __TextOutArgs.Text, __D0main
+0	162	329	#line 162 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	163	329		syscall 13, __TextOutArgs
+0	162	332	#line 162 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	163	332		mov __D0main, __TextOutArgs.Result
+0	162	334	#line 162 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	163	334		release __TextOutMutex
+0	162	335	#line 162 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	162	335	#line 162 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	163	335		set __signed_stack_001main, 5
+0	162	338	#line 162 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	162	338	#line 162 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	163	338		set __signed_stack_002main, 24
+0	162	341	#line 162 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	162	341	#line 162 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	163	341		subcall compaswaarde, __compaswaarde_return
+0	162	343	#line 162 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	163	343		mov __D0main, __D0compaswaarde
+0	163	345	#line 163 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	164	345		acquire __TextOutMutex
+0	163	346	#line 163 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	164	346		mov __TextOutArgs.Location.X, __signed_stack_001main
+0	163	349	#line 163 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	164	349		mov __TextOutArgs.Location.Y, __signed_stack_002main
+0	163	352	#line 163 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	164	352		set __TextOutArgs.Options, 0
+0	163	355	#line 163 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	164	355		numtostr __TextOutArgs.Text, __D0main
+0	163	358	#line 163 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	164	358		syscall 13, __TextOutArgs
+0	163	361	#line 163 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	164	361		mov __D0main, __TextOutArgs.Result
+0	163	363	#line 163 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	164	363		release __TextOutMutex
+0	163	364	#line 163 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	163	364	#line 163 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	164	364		set __signed_stack_001main, 20
+0	163	367	#line 163 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	163	367	#line 163 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	164	367		set __signed_stack_002main, 0
+0	163	370	#line 163 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	163	370	#line 163 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	164	370	#pragma macro 26
+0	164	370		acquire __RLSBmutex2
+0	164	371		mov __RLSReadBuf2, __RLSBbufLSWrite1
+0	164	373		set __RLSBytesCount2, 1
+0	164	376		wait 15
+0	164	378		subcall __ReadLSBytes2, ____ReadLSBytes2_return
+0	164	380		index __D0main, __RLSReadBuf2, 65535
+0	164	384		release __RLSBmutex2
+0	8010	385	#line 8010 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	164	385	#line 164 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	165	385		acquire __TextOutMutex
+0	164	386	#line 164 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	165	386		mov __TextOutArgs.Location.X, __signed_stack_001main
+0	164	389	#line 164 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	165	389		mov __TextOutArgs.Location.Y, __signed_stack_002main
+0	164	392	#line 164 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	165	392		set __TextOutArgs.Options, 0
+0	164	395	#line 164 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	165	395		numtostr __TextOutArgs.Text, __D0main
+0	164	398	#line 164 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	165	398		syscall 13, __TextOutArgs
+0	164	401	#line 164 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	165	401		mov __D0main, __TextOutArgs.Result
+0	164	403	#line 164 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	165	403		release __TextOutMutex
+0	164	404	#line 164 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	164	404	#line 164 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	164	404	#line 164 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	165	404		set __signed_stack_001main, 5
+0	164	407	#line 164 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	164	407	#line 164 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	165	407		set __signed_stack_002main, 0
+0	164	410	#line 164 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	164	410	#line 164 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	165	410		getin __D0main, __constVal3, 4
+0	166	414	#line 166 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	167	414		acquire __TextOutMutex
+0	166	415	#line 166 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	167	415		mov __TextOutArgs.Location.X, __signed_stack_001main
+0	166	418	#line 166 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	167	418		mov __TextOutArgs.Location.Y, __signed_stack_002main
+0	166	421	#line 166 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	167	421		set __TextOutArgs.Options, 0
+0	166	424	#line 166 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	167	424		numtostr __TextOutArgs.Text, __D0main
+0	166	427	#line 166 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	167	427		syscall 13, __TextOutArgs
+0	166	430	#line 166 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	167	430		mov __D0main, __TextOutArgs.Result
+0	166	432	#line 166 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	167	432		release __TextOutMutex
+0	166	433	#line 166 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	166	433	#line 166 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	166	433	#line 166 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	167	433		mov __signed_stack_001main, __main_7qG2_afstand_7qG2_000
+0	166	435	#line 166 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	167	435	#line 167 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	168	435		set __D0main, 150
+0	167	438	#line 167 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	168	438		cmp 0, __zfmain, __signed_stack_001main, __D0main
+0	167	442	#line 167 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	168	442		mov __D0main, __zfmain
+0	168	444	#line 168 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	169	444		brtst 4, __NXC_Label_869, __zfmain
+0	168	447	#line 168 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	169	447		set __signed_stack_001main, 0
+0	168	450	#line 168 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	168	450	#line 168 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	169	450		set __signed_stack_002main, 8
+0	168	453	#line 168 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	168	453	#line 168 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	169	453		strcat __strbufmain, __constStr0012
+0	169	457	#line 169 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	170	457		acquire __TextOutMutex
+0	169	458	#line 169 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	170	458		mov __TextOutArgs.Location.X, __signed_stack_001main
+0	169	461	#line 169 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	170	461		mov __TextOutArgs.Location.Y, __signed_stack_002main
+0	169	464	#line 169 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	170	464		set __TextOutArgs.Options, 0
+0	169	467	#line 169 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	170	467		mov __TextOutArgs.Text, __strbufmain
+0	169	469	#line 169 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	170	469		syscall 13, __TextOutArgs
+0	169	472	#line 169 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	170	472		mov __D0main, __TextOutArgs.Result
+0	169	474	#line 169 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	170	474		release __TextOutMutex
+0	169	475	#line 169 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	169	475	#line 169 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	170	475		mov __Sturen_7qG2_richting_7qG2_000, __main_7qG2_richting_7qG2_000
+0	169	477	#line 169 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	169	477	#line 169 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	169	477	#line 169 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	170	477	#line 170 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	171	477		subcall Sturen, __Sturen_return
+0	170	479	#line 170 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	171	479	#line 171 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	171	479	#line 171 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	172	479		mov __signed_stack_001main, __main_7qG2_afstand_7qG2_000
+0	171	481	#line 171 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	171	481	#line 171 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	172	481		set __D0main, 150
+0	171	484	#line 171 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	172	484		cmp 1, __zfmain, __signed_stack_001main, __D0main
+0	171	488	#line 171 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	172	488		mov __D0main, __zfmain
+0	171	490	#line 171 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	172	490		brtst 4, __NXC_Label_879, __zfmain
+0	171	493	#line 171 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	172	493		mov __signed_stack_001main, __D0main
+0	171	495	#line 171 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	172	495		mov __signed_stack_002main, __main_7qG2_richting_7qG2_000
+0	171	497	#line 171 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	172	497	#line 172 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	173	497		set __D0main, 5
+0	172	500	#line 172 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	173	500		cmp 4, __zfmain, __signed_stack_002main, __D0main
+0	172	504	#line 172 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	172	504	#line 172 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	173	504		and __D0main, __signed_stack_001main, __zfmain
+0	173	508	#line 173 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	174	508		tst 5, __zfmain, __D0main
+0	173	511	#line 173 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	174	511		brtst 4, __NXC_Label_880, __zfmain
+0	173	514	#line 173 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	174	514		set __signed_stack_001main, 0
+0	173	517	#line 173 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	173	517	#line 173 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	174	517		set __signed_stack_002main, 8
+0	173	520	#line 173 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	173	520	#line 173 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	174	520		strcat __strbufmain, __constStr0013
+0	174	524	#line 174 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	175	524		acquire __TextOutMutex
+0	174	525	#line 174 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	175	525		mov __TextOutArgs.Location.X, __signed_stack_001main
+0	174	528	#line 174 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	175	528		mov __TextOutArgs.Location.Y, __signed_stack_002main
+0	174	531	#line 174 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	175	531		set __TextOutArgs.Options, 0
+0	174	534	#line 174 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	175	534		mov __TextOutArgs.Text, __strbufmain
+0	174	536	#line 174 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	175	536		syscall 13, __TextOutArgs
+0	174	539	#line 174 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	175	539		mov __D0main, __TextOutArgs.Result
+0	174	541	#line 174 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	175	541		release __TextOutMutex
+0	174	542	#line 174 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	175	542	#line 175 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	176	542		subcall richten, __richten_return
+0	175	544	#line 175 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	177	544	#line 177 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	179	544	#line 179 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	180	544		jmp __NXC_Label_823
+0	179	546	#line 179 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+0	180	546		exit -1, -1
+1	4529	0		brtst 4, __rotate_Done1, __rotate_angle1
+1	4530	3		sign __rotate_thePower1, __rotate_angle1
+1	4531	6		abs __rotate_theAngle1, __rotate_angle1
+1	4532	9		mul __rotate_thePower1, __rotate_thePower1, __rotate_power1
+1	4534	13		set __rotate_theUF1, 23
+1	4535	16		brtst 4, __rotate_NoSync1, __rotate_sync1
+1	4536	19		set __rotate_theOM1, 7
+1	4537	22		set __rotate_theRM1, 2
+1	4538	25		mov __rotate_theTurnPct1, __rotate_turnpct1
+1	4539	27		brtst 4, __rotate_Start1, __rotate_theTurnPct1
+1	4540	30		add __rotate_theUF1, __rotate_theUF1, __constVal32
+1	4541	34		jmp __rotate_Start1
+1	4543	36		set __rotate_theOM1, 3
+1	4544	39		set __rotate_theRM1, 0
+1	4545	42		set __rotate_theTurnPct1, 0
+1	4547	45		set __rotate_theRS1, 32
+1	4548	48		setout __rotate_ports1, 1, __rotate_theOM1, 8, __rotate_theRM1, 5, __rotate_theAngle1, 6, __rotate_theRS1, 10, __rotate_theRVP1, 11, __rotate_theRVI1, 12, __rotate_theRVD1, 2, __rotate_thePower1, 7, __rotate_turnpct1, 0, __rotate_theUF1
+1	4551	71		index __rotate_firstPort1, __rotate_ports1, 65535
+1	4553	75		getout __rotate_power1, __rotate_firstPort1, 2
+1	4554	79		brtst 4, __rotate_doneRunning1, __rotate_power1
+1	4555	82		getout __rotate_rs1, __rotate_firstPort1, 6
+1	4556	86		brcmp 4, __rotate_Running1, __rotate_rs1, __constVal32
+1	4558	90		brtst 4, __rotate_Reset1, __rotate_stop1
+1	4560	93		set __rotate_theOM1, 7
+1	4561	96		set __rotate_theUF1, 7
+1	4562	99		setout __rotate_ports1, 1, __rotate_theOM1, 8, __constVal1, 6, __rotate_theRS1, 2, __constVal0, 5, __constVal0, 0, __rotate_theUF1
+1	4564	114		getout __rotate_RotCount1, __rotate_firstPort1, 14
+1	4566	118		mov __rotate_OldRotCount1, __rotate_RotCount1
+1	4567	120		wait 50
+1	4569	122		getout __rotate_RotCount1, __rotate_firstPort1, 14
+1	4570	126		brcmp 5, __rotate_Stabilize1, __rotate_OldRotCount1, __rotate_RotCount1
+1	4571	130		set __rotate_theOM1, 4
+1	4572	133		setout __rotate_ports1, 8, __rotate_theRM1, 6, __constVal0, 1, __rotate_theOM1, 0, __constVal1
+1	4575	144		brtst 4, __rotate_Done1, __rotate_theTurnPct1
+1	4576	147		setout __rotate_ports1, 0, __constVal32
+1	4578	152		subret ____RotateMotor1_return
+2	4885	0		setin __constVal1, __ResetSensorPort, 5
+2	4887	4		getin __ResetSensorTmp, __ResetSensorPort, 5
+2	4888	8		brtst 5, __SensorStillInvalid, __ResetSensorTmp
+2	4889	11		subret ____ResetSensorSubroutine_return
+3	5710	0	#pragma macro 25
+3	5710	0		acquire __CLSWMutex1
+3	5710	1		set __CLSWArgs1.Port, 1
+3	5710	4		mov __CLSWArgs1.ReturnLen, __RLSBytesCount1
+3	5710	6		mov __CLSWArgs1.Buffer, __RLSReadBuf1
+3	5710	8		syscall 21, __CLSWArgs1
+3	5710	11		mov __RLSBResult1, __CLSWArgs1.Result
+3	5710	13		release __CLSWMutex1
+3	5710	14	#line 5710 "NXTDefs.h"
+3	5711	14		brtst 4, __RLSBReturn1, __RLSBytesCount1
+3	5712	17		arrinit __RLSReadBuf1, __constVal0, __RLSBytesCount1
+3	5713	21		brtst 5, __RLSBError1, __RLSBResult1
+3	5714	24		set __RLSBIterations1, 4
+3	5716	27	#pragma macro 23
+3	5716	27		acquire __CLSCSMutex1
+3	5716	28		set __CLSCSArgs1.Port, 1
+3	5716	31		syscall 23, __CLSCSArgs1
+3	5716	34		mov __RLSBytesCount1, __CLSCSArgs1.BytesReady
+3	5716	36		mov __RLSBResult1, __CLSCSArgs1.Result
+3	5716	38		release __CLSCSMutex1
+3	5716	39	#line 5716 "NXTDefs.h"
+3	5717	39		sub __RLSBIterations1, __RLSBIterations1, __constVal1
+3	5718	43		brtst 2, __RLSBError1, __RLSBIterations1
+3	5719	46		brtst 0, __RLSBError1, __RLSBResult1
+3	5720	49		brtst 4, __RLSBReadyToRead1, __RLSBResult1
+3	5722	52		wait 15
+3	5723	54		jmp __RLSBDoCheckStatus1
+3	5726	56	#pragma macro 25
+3	5726	56		acquire __CLSRMutex1
+3	5726	57		set __CLSRArgs1.Port, 1
+3	5726	60		mov __CLSRArgs1.BufferLen, __RLSBytesCount1
+3	5726	62		syscall 22, __CLSRArgs1
+3	5726	65		mov __RLSReadBuf1, __CLSRArgs1.Buffer
+3	5726	67		mov __RLSBResult1, __CLSRArgs1.Result
+3	5726	69		release __CLSRMutex1
+3	5726	70	#line 5726 "NXTDefs.h"
+3	5727	70		brtst 5, __RLSBError1, __RLSBResult1
+3	5728	73		mov __RLSLastGoodRead1, __RLSReadBuf1
+3	5729	75		jmp __RLSBDone1
+3	5731	77		mov __RLSReadBuf1, __RLSLastGoodRead1
+3	5733	79		arrsize __RLSBytesCount1, __RLSReadBuf1
+3	5735	82		subret ____ReadLSBytes1_return
+4	5747	0	#pragma macro 25
+4	5747	0		acquire __CLSWMutex2
+4	5747	1		set __CLSWArgs2.Port, 2
+4	5747	4		mov __CLSWArgs2.ReturnLen, __RLSBytesCount2
+4	5747	6		mov __CLSWArgs2.Buffer, __RLSReadBuf2
+4	5747	8		syscall 21, __CLSWArgs2
+4	5747	11		mov __RLSBResult2, __CLSWArgs2.Result
+4	5747	13		release __CLSWMutex2
+4	5747	14	#line 5747 "NXTDefs.h"
+4	5748	14		brtst 4, __RLSBReturn2, __RLSBytesCount2
+4	5749	17		arrinit __RLSReadBuf2, __constVal0, __RLSBytesCount2
+4	5750	21		brtst 5, __RLSBError2, __RLSBResult2
+4	5751	24		set __RLSBIterations2, 4
+4	5753	27	#pragma macro 23
+4	5753	27		acquire __CLSCSMutex2
+4	5753	28		set __CLSCSArgs2.Port, 2
+4	5753	31		syscall 23, __CLSCSArgs2
+4	5753	34		mov __RLSBytesCount2, __CLSCSArgs2.BytesReady
+4	5753	36		mov __RLSBResult2, __CLSCSArgs2.Result
+4	5753	38		release __CLSCSMutex2
+4	5753	39	#line 5753 "NXTDefs.h"
+4	5754	39		sub __RLSBIterations2, __RLSBIterations2, __constVal1
+4	5755	43		brtst 2, __RLSBError2, __RLSBIterations2
+4	5756	46		brtst 0, __RLSBError2, __RLSBResult2
+4	5757	49		brtst 4, __RLSBReadyToRead2, __RLSBResult2
+4	5759	52		wait 15
+4	5760	54		jmp __RLSBDoCheckStatus2
+4	5763	56	#pragma macro 25
+4	5763	56		acquire __CLSRMutex2
+4	5763	57		set __CLSRArgs2.Port, 2
+4	5763	60		mov __CLSRArgs2.BufferLen, __RLSBytesCount2
+4	5763	62		syscall 22, __CLSRArgs2
+4	5763	65		mov __RLSReadBuf2, __CLSRArgs2.Buffer
+4	5763	67		mov __RLSBResult2, __CLSRArgs2.Result
+4	5763	69		release __CLSRMutex2
+4	5763	70	#line 5763 "NXTDefs.h"
+4	5764	70		brtst 5, __RLSBError2, __RLSBResult2
+4	5765	73		mov __RLSLastGoodRead2, __RLSReadBuf2
+4	5766	75		jmp __RLSBDone2
+4	5768	77		mov __RLSReadBuf2, __RLSLastGoodRead2
+4	5770	79		arrsize __RLSBytesCount2, __RLSReadBuf2
+4	5772	82		subret ____ReadLSBytes2_return
+5	5821	0	#pragma macro 25
+5	5821	0		acquire __CLSWMutex0
+5	5821	1		acquire __CLSWMutex1
+5	5821	2		acquire __CLSWMutex2
+5	5821	3		acquire __CLSWMutex3
+5	5821	4		mov __CLSWArgs0.Port, __RLSReadPort
+5	5821	6		mov __CLSWArgs0.ReturnLen, __RLSBytesCountVar
+5	5821	8		mov __CLSWArgs0.Buffer, __RLSReadBufVar
+5	5821	10		syscall 21, __CLSWArgs0
+5	5821	13		mov __RLSBResultVar, __CLSWArgs0.Result
+5	5821	15		release __CLSWMutex0
+5	5821	16		release __CLSWMutex1
+5	5821	17		release __CLSWMutex2
+5	5821	18		release __CLSWMutex3
+5	5821	19	#line 5821 "NXTDefs.h"
+5	5822	19		brtst 4, __RLSBReturnVar, __RLSBytesCountVar
+5	5823	22		arrinit __RLSReadBufVar, __constVal0, __RLSBytesCountVar
+5	5824	26		brtst 5, __RLSBErrorVar, __RLSBResultVar
+5	5825	29		set __RLSBIterationsVar, 4
+5	5827	32	#pragma macro 23
+5	5827	32		acquire __CLSCSMutex0
+5	5827	33		acquire __CLSCSMutex1
+5	5827	34		acquire __CLSCSMutex2
+5	5827	35		acquire __CLSCSMutex3
+5	5827	36		mov __CLSCSArgs0.Port, __RLSReadPort
+5	5827	38		syscall 23, __CLSCSArgs0
+5	5827	41		mov __RLSBytesCountVar, __CLSCSArgs0.BytesReady
+5	5827	43		mov __RLSBResultVar, __CLSCSArgs0.Result
+5	5827	45		release __CLSCSMutex0
+5	5827	46		release __CLSCSMutex1
+5	5827	47		release __CLSCSMutex2
+5	5827	48		release __CLSCSMutex3
+5	5827	49	#line 5827 "NXTDefs.h"
+5	5828	49		sub __RLSBIterationsVar, __RLSBIterationsVar, __constVal1
+5	5829	53		brtst 2, __RLSBErrorVar, __RLSBIterationsVar
+5	5830	56		brtst 0, __RLSBErrorVar, __RLSBResultVar
+5	5831	59		brtst 4, __RLSBReadyToReadVar, __RLSBResultVar
+5	5833	62		wait 15
+5	5834	64		jmp __RLSBDoCheckStatusVar
+5	5837	66	#pragma macro 25
+5	5837	66		acquire __CLSRMutex0
+5	5837	67		acquire __CLSRMutex1
+5	5837	68		acquire __CLSRMutex2
+5	5837	69		acquire __CLSRMutex3
+5	5837	70		mov __CLSRArgs0.Port, __RLSReadPort
+5	5837	72		mov __CLSRArgs0.BufferLen, __RLSBytesCountVar
+5	5837	74		syscall 22, __CLSRArgs0
+5	5837	77		mov __RLSReadBufVar, __CLSRArgs0.Buffer
+5	5837	79		mov __RLSBResultVar, __CLSRArgs0.Result
+5	5837	81		release __CLSRMutex0
+5	5837	82		release __CLSRMutex1
+5	5837	83		release __CLSRMutex2
+5	5837	84		release __CLSRMutex3
+5	5837	85	#line 5837 "NXTDefs.h"
+5	5838	85		brtst 5, __RLSBErrorVar, __RLSBResultVar
+5	5839	88		mov __RLSLastGoodReadVar, __RLSReadBufVar
+5	5840	90		jmp __RLSBDoneVar
+5	5842	92		mov __RLSReadBufVar, __RLSLastGoodReadVar
+5	5844	94		arrsize __RLSBytesCountVar, __RLSReadBufVar
+5	5846	97		subret ____ReadLSBytesVar_return
+6	17	0	#line 17 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	18	0		arrbuild __HTEnhancedIRSeekerV2_7qG2_cmdBuf_7qG2_000, __constVal16, __constVal67
+6	22	5	#line 22 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	23	5		set __HTEnhancedIRSeekerV2_7qG2_dir_7qG2_000, 0
+6	22	8	#line 22 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	22	8	#line 22 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	23	8	#line 23 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	24	8		set __HTEnhancedIRSeekerV2_7qG2_strength_7qG2_000, 0
+6	23	11	#line 23 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	23	11	#line 23 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	24	11	#line 24 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	25	11		set __HTEnhancedIRSeekerV2_7qG2_cResp_7qG2_000, 6
+6	24	14	#line 24 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	24	14	#line 24 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	24	14	#line 24 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	25	14	#pragma macro 28
+6	25	14		acquire __RLSBmutex0
+6	25	15		acquire __RLSBmutex1
+6	25	16		acquire __RLSBmutex2
+6	25	17		acquire __RLSBmutex3
+6	25	18		mov __RLSReadPort, __HTEnhancedIRSeekerV2_7qG2_port_7qG2_000
+6	25	20		mov __RLSReadBufVar, __HTEnhancedIRSeekerV2_7qG2_cmdBuf_7qG2_000
+6	25	22		mov __RLSBytesCountVar, __HTEnhancedIRSeekerV2_7qG2_cResp_7qG2_000
+6	25	24		subcall __ReadLSBytesVar, ____ReadLSBytesVar_return
+6	25	26		tst 4, __D0HTEnhancedIRSeekerV2, __RLSBResultVar
+6	25	29		mov __HTEnhancedIRSeekerV2_7qG2_cResp_7qG2_000, __RLSBytesCountVar
+6	25	31		mov __HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000, __RLSReadBufVar
+6	25	33		release __RLSBmutex0
+6	25	34		release __RLSBmutex1
+6	25	35		release __RLSBmutex2
+6	25	36		release __RLSBmutex3
+6	6475	37	#line 6475 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	24	37	#line 24 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	25	37		mov __HTEnhancedIRSeekerV2_7qG2_fSuccess_7qG2_000, __D0HTEnhancedIRSeekerV2
+6	24	39	#line 24 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	24	39	#line 24 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	25	39	#line 25 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	26	39		mov __DU0HTEnhancedIRSeekerV2, __D0HTEnhancedIRSeekerV2
+6	26	41	#line 26 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	27	41		tst 5, __zfHTEnhancedIRSeekerV2, __DU0HTEnhancedIRSeekerV2
+6	26	44	#line 26 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	27	44		brtst 4, __NXC_Label_614, __zfHTEnhancedIRSeekerV2
+6	27	47	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	47		set __HTEnhancedIRSeekerV2_7qG2_iMax_7qG2_000, 0
+6	27	50	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	27	50	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	27	50	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	50		set __HTEnhancedIRSeekerV2_7qG2_i_7qG2_000, 1
+6	27	53	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	27	53	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	53		mov __signed_stack_001HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_7qG2_i_7qG2_000
+6	27	55	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	27	55	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	55		set __D0HTEnhancedIRSeekerV2, 5
+6	27	58	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	58		cmp 0, __zfHTEnhancedIRSeekerV2, __signed_stack_001HTEnhancedIRSeekerV2, __D0HTEnhancedIRSeekerV2
+6	27	62	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	62		mov __D0HTEnhancedIRSeekerV2, __zfHTEnhancedIRSeekerV2
+6	27	64	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	64		brtst 4, __NXC_Label_618, __zfHTEnhancedIRSeekerV2
+6	27	67	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	67		jmp __NXC_Label_619
+6	27	69	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	69		add __HTEnhancedIRSeekerV2_7qG2_i_7qG2_000, __HTEnhancedIRSeekerV2_7qG2_i_7qG2_000, __constVal1
+6	27	73	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	73		jmp __NXC_Label_617
+6	27	75	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	75		mov __signed_stack_001HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_7qG2_i_7qG2_000
+6	27	77	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	27	77	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	77		index __ArrHelper__HTEnhancedIRSeekerV2_98_0, __HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000, __signed_stack_001HTEnhancedIRSeekerV2
+6	27	81	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	81		mov __unsigned_stack_001HTEnhancedIRSeekerV2, __ArrHelper__HTEnhancedIRSeekerV2_98_0
+6	27	83	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	27	83	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	83		mov __signed_stack_002HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_7qG2_iMax_7qG2_000
+6	27	85	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	27	85	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	85		index __ArrHelper__HTEnhancedIRSeekerV2_98_0, __HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000, __signed_stack_002HTEnhancedIRSeekerV2
+6	27	89	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	89		mov __DU0HTEnhancedIRSeekerV2, __ArrHelper__HTEnhancedIRSeekerV2_98_0
+6	27	91	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	91		cmp 1, __zfHTEnhancedIRSeekerV2, __unsigned_stack_001HTEnhancedIRSeekerV2, __DU0HTEnhancedIRSeekerV2
+6	27	95	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	95		mov __D0HTEnhancedIRSeekerV2, __zfHTEnhancedIRSeekerV2
+6	27	97	#line 27 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	97		brtst 4, __NXC_Label_631, __zfHTEnhancedIRSeekerV2
+6	28	100	#line 28 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	29	100		mov __HTEnhancedIRSeekerV2_7qG2_iMax_7qG2_000, __HTEnhancedIRSeekerV2_7qG2_i_7qG2_000
+6	28	102	#line 28 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	102	#line 28 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	102	#line 28 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	102	#line 28 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	29	102		jmp __NXC_Label_620
+6	28	104	#line 28 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	104	#line 28 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	104	#line 28 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	104	#line 28 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	28	104	#line 28 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	29	104		mul __signed_stack_001HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_7qG2_iMax_7qG2_000, __constVal2
+6	28	108	#line 28 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	29	108	#line 29 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	29	108	#line 29 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	108		add __HTEnhancedIRSeekerV2_7qG2_dir_7qG2_000, __signed_stack_001HTEnhancedIRSeekerV2, __constVal1
+6	29	112	#line 29 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	29	112	#line 29 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	29	112	#line 29 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	112		mov __signed_stack_001HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_7qG2_iMax_7qG2_000
+6	29	114	#line 29 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	29	114	#line 29 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	114		index __ArrHelper__HTEnhancedIRSeekerV2_98_0, __HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000, __signed_stack_001HTEnhancedIRSeekerV2
+6	29	118	#line 29 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	118		mov __unsigned_stack_001HTEnhancedIRSeekerV2, __ArrHelper__HTEnhancedIRSeekerV2_98_0
+6	29	120	#line 29 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	29	120	#line 29 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	120		set __signed_stack_002HTEnhancedIRSeekerV2, 5
+6	29	123	#line 29 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	29	123	#line 29 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	123		index __ArrHelper__HTEnhancedIRSeekerV2_98_0, __HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000, __signed_stack_002HTEnhancedIRSeekerV2
+6	29	127	#line 29 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	127	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	31	127		add __HTEnhancedIRSeekerV2_7qG2_dcSigSum_7qG2_000, __unsigned_stack_001HTEnhancedIRSeekerV2, __ArrHelper__HTEnhancedIRSeekerV2_98_0
+6	30	131	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	131	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	131	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	31	131		mov __signed_stack_001HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_7qG2_iMax_7qG2_000
+6	30	133	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	133	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	31	133		set __D0HTEnhancedIRSeekerV2, 0
+6	30	136	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	31	136		cmp 1, __zfHTEnhancedIRSeekerV2, __signed_stack_001HTEnhancedIRSeekerV2, __D0HTEnhancedIRSeekerV2
+6	30	140	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	31	140		mov __D0HTEnhancedIRSeekerV2, __zfHTEnhancedIRSeekerV2
+6	30	142	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	31	142		brtst 4, __NXC_Label_643, __zfHTEnhancedIRSeekerV2
+6	30	145	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	31	145		mov __signed_stack_001HTEnhancedIRSeekerV2, __D0HTEnhancedIRSeekerV2
+6	30	147	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	147	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	147	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	147	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	31	147		sub __signed_stack_002HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_7qG2_iMax_7qG2_000, __constVal1
+6	30	151	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	151	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	31	151		index __ArrHelper__HTEnhancedIRSeekerV2_98_0, __HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000, __signed_stack_002HTEnhancedIRSeekerV2
+6	30	155	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	31	155		mov __unsigned_stack_002HTEnhancedIRSeekerV2, __ArrHelper__HTEnhancedIRSeekerV2_98_0
+6	30	157	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	157	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	31	157		mov __signed_stack_003HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_7qG2_iMax_7qG2_000
+6	30	159	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	159	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	31	159		index __ArrHelper__HTEnhancedIRSeekerV2_98_0, __HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000, __signed_stack_003HTEnhancedIRSeekerV2
+6	30	163	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	163	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	163	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	163	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	31	163		div __D0HTEnhancedIRSeekerV2, __ArrHelper__HTEnhancedIRSeekerV2_98_0, __constVal2
+6	30	167	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	31	167		cmp 1, __zfHTEnhancedIRSeekerV2, __unsigned_stack_002HTEnhancedIRSeekerV2, __D0HTEnhancedIRSeekerV2
+6	30	171	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	30	171	#line 30 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	31	171		and __D0HTEnhancedIRSeekerV2, __signed_stack_001HTEnhancedIRSeekerV2, __zfHTEnhancedIRSeekerV2
+6	31	175	#line 31 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	32	175		tst 5, __zfHTEnhancedIRSeekerV2, __D0HTEnhancedIRSeekerV2
+6	31	178	#line 31 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	32	178		brtst 4, __NXC_Label_652, __zfHTEnhancedIRSeekerV2
+6	32	181	#line 32 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	33	181		sub __HTEnhancedIRSeekerV2_7qG2_dir_7qG2_000, __HTEnhancedIRSeekerV2_7qG2_dir_7qG2_000, __constVal1
+6	32	185	#line 32 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	32	185	#line 32 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	32	185	#line 32 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	32	185	#line 32 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	32	185	#line 32 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	33	185		sub __signed_stack_001HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_7qG2_iMax_7qG2_000, __constVal1
+6	32	189	#line 32 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	32	189	#line 32 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	33	189		index __ArrHelper__HTEnhancedIRSeekerV2_98_0, __HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000, __signed_stack_001HTEnhancedIRSeekerV2
+6	32	193	#line 32 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	33	193	#line 33 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	34	193		add __HTEnhancedIRSeekerV2_7qG2_dcSigSum_7qG2_000, __HTEnhancedIRSeekerV2_7qG2_dcSigSum_7qG2_000, __ArrHelper__HTEnhancedIRSeekerV2_98_0
+6	33	197	#line 33 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	34	197	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	34	197	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	35	197		mov __signed_stack_001HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_7qG2_iMax_7qG2_000
+6	34	199	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	34	199	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	35	199		set __D0HTEnhancedIRSeekerV2, 4
+6	34	202	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	35	202		cmp 0, __zfHTEnhancedIRSeekerV2, __signed_stack_001HTEnhancedIRSeekerV2, __D0HTEnhancedIRSeekerV2
+6	34	206	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	35	206		mov __D0HTEnhancedIRSeekerV2, __zfHTEnhancedIRSeekerV2
+6	34	208	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	35	208		brtst 4, __NXC_Label_658, __zfHTEnhancedIRSeekerV2
+6	34	211	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	35	211		mov __signed_stack_001HTEnhancedIRSeekerV2, __D0HTEnhancedIRSeekerV2
+6	34	213	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	34	213	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	34	213	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	34	213	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	35	213		add __signed_stack_002HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_7qG2_iMax_7qG2_000, __constVal1
+6	34	217	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	34	217	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	35	217		index __ArrHelper__HTEnhancedIRSeekerV2_98_0, __HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000, __signed_stack_002HTEnhancedIRSeekerV2
+6	34	221	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	35	221		mov __unsigned_stack_002HTEnhancedIRSeekerV2, __ArrHelper__HTEnhancedIRSeekerV2_98_0
+6	34	223	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	34	223	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	35	223		mov __signed_stack_003HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_7qG2_iMax_7qG2_000
+6	34	225	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	34	225	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	35	225		index __ArrHelper__HTEnhancedIRSeekerV2_98_0, __HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000, __signed_stack_003HTEnhancedIRSeekerV2
+6	34	229	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	34	229	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	34	229	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	34	229	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	35	229		div __D0HTEnhancedIRSeekerV2, __ArrHelper__HTEnhancedIRSeekerV2_98_0, __constVal2
+6	34	233	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	35	233		cmp 1, __zfHTEnhancedIRSeekerV2, __unsigned_stack_002HTEnhancedIRSeekerV2, __D0HTEnhancedIRSeekerV2
+6	34	237	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	34	237	#line 34 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	35	237		and __D0HTEnhancedIRSeekerV2, __signed_stack_001HTEnhancedIRSeekerV2, __zfHTEnhancedIRSeekerV2
+6	35	241	#line 35 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	36	241		tst 5, __zfHTEnhancedIRSeekerV2, __D0HTEnhancedIRSeekerV2
+6	35	244	#line 35 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	36	244		brtst 4, __NXC_Label_667, __zfHTEnhancedIRSeekerV2
+6	36	247	#line 36 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	37	247		add __HTEnhancedIRSeekerV2_7qG2_dir_7qG2_000, __HTEnhancedIRSeekerV2_7qG2_dir_7qG2_000, __constVal1
+6	36	251	#line 36 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	36	251	#line 36 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	36	251	#line 36 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	36	251	#line 36 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	36	251	#line 36 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	37	251		add __signed_stack_001HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_7qG2_iMax_7qG2_000, __constVal1
+6	36	255	#line 36 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	36	255	#line 36 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	37	255		index __ArrHelper__HTEnhancedIRSeekerV2_98_0, __HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000, __signed_stack_001HTEnhancedIRSeekerV2
+6	36	259	#line 36 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	37	259	#line 37 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	38	259		add __HTEnhancedIRSeekerV2_7qG2_dcSigSum_7qG2_000, __HTEnhancedIRSeekerV2_7qG2_dcSigSum_7qG2_000, __ArrHelper__HTEnhancedIRSeekerV2_98_0
+6	37	263	#line 37 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	38	263	#line 38 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	38	263	#line 38 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	38	263	#line 38 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	39	263		mul __HTEnhancedIRSeekerV2_7qG2_dcSigSum_7qG2_000, __HTEnhancedIRSeekerV2_7qG2_dcSigSum_7qG2_000, __constVal500
+6	38	267	#line 38 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	39	267	#line 39 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	40	267		set __HTEnhancedIRSeekerV2_7qG2_dcStr_7qG2_000, 1
+6	39	270	#line 39 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	39	270	#line 39 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	39	270	#line 39 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	40	270		set __signed_stack_001HTEnhancedIRSeekerV2, 10
+6	39	273	#line 39 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	39	273	#line 39 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	40	273		sub __signed_stack_001HTEnhancedIRSeekerV2, __signed_stack_001HTEnhancedIRSeekerV2, __constVal1
+6	39	277	#line 39 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	40	277		brtst 0, __NXC_Label_677, __signed_stack_001HTEnhancedIRSeekerV2
+6	39	280	#line 39 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	39	280	#line 39 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	39	280	#line 39 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	39	280	#line 39 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	40	280		div __signed_stack_002HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_7qG2_dcSigSum_7qG2_000, __HTEnhancedIRSeekerV2_7qG2_dcStr_7qG2_000
+6	39	284	#line 39 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	39	284	#line 39 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	39	284	#line 39 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	40	284		add __signed_stack_002HTEnhancedIRSeekerV2, __signed_stack_002HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_7qG2_dcStr_7qG2_000
+6	39	288	#line 39 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	40	288	#line 40 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	40	288	#line 40 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	41	288		div __HTEnhancedIRSeekerV2_7qG2_dcStr_7qG2_000, __signed_stack_002HTEnhancedIRSeekerV2, __constVal2
+6	40	292	#line 40 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	40	292	#line 40 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	40	292	#line 40 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	41	292		jmp __NXC_Label_676
+6	40	294	#line 40 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	41	294	#line 41 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	42	294		mov __HTEnhancedIRSeekerV2_7qG2_strength_7qG2_000, __HTEnhancedIRSeekerV2_7qG2_dcStr_7qG2_000
+6	41	296	#line 41 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	41	296	#line 41 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	41	296	#line 41 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	42	296		mov __signed_stack_001HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_7qG2_dcStr_7qG2_000
+6	41	298	#line 41 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	41	298	#line 41 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	42	298		set __D0HTEnhancedIRSeekerV2, 200
+6	41	301	#line 41 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	42	301		cmp 2, __zfHTEnhancedIRSeekerV2, __signed_stack_001HTEnhancedIRSeekerV2, __D0HTEnhancedIRSeekerV2
+6	41	305	#line 41 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	42	305		mov __D0HTEnhancedIRSeekerV2, __zfHTEnhancedIRSeekerV2
+6	42	307	#line 42 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	43	307		brtst 4, __NXC_Label_688, __zfHTEnhancedIRSeekerV2
+6	42	310	#line 42 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	43	310		set __HTEnhancedIRSeekerV2_7qG2_dir_7qG2_000, 0
+6	42	313	#line 42 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	42	313	#line 42 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	43	313	#line 43 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	44	313		set __HTEnhancedIRSeekerV2_7qG2_strength_7qG2_000, 0
+6	43	316	#line 43 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	43	316	#line 43 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	43	316	#line 43 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	44	316		set __signed_stack_001HTEnhancedIRSeekerV2, 1
+6	43	319	#line 43 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	44	319	#line 44 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	45	319		set __D0HTEnhancedIRSeekerV2, 73
+6	44	322	#line 44 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	45	322		replace __HTEnhancedIRSeekerV2_7qG2_cmdBuf_7qG2_000, __HTEnhancedIRSeekerV2_7qG2_cmdBuf_7qG2_000, __signed_stack_001HTEnhancedIRSeekerV2, __D0HTEnhancedIRSeekerV2
+6	44	327	#line 44 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	45	327	#line 45 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	46	327		set __HTEnhancedIRSeekerV2_7qG2_cResp_7qG2_000, 6
+6	45	330	#line 45 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	45	330	#line 45 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	45	330	#line 45 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	46	330	#pragma macro 28
+6	46	330		acquire __RLSBmutex0
+6	46	331		acquire __RLSBmutex1
+6	46	332		acquire __RLSBmutex2
+6	46	333		acquire __RLSBmutex3
+6	46	334		mov __RLSReadPort, __HTEnhancedIRSeekerV2_7qG2_port_7qG2_000
+6	46	336		mov __RLSReadBufVar, __HTEnhancedIRSeekerV2_7qG2_cmdBuf_7qG2_000
+6	46	338		mov __RLSBytesCountVar, __HTEnhancedIRSeekerV2_7qG2_cResp_7qG2_000
+6	46	340		subcall __ReadLSBytesVar, ____ReadLSBytesVar_return
+6	46	342		tst 4, __D0HTEnhancedIRSeekerV2, __RLSBResultVar
+6	46	345		mov __HTEnhancedIRSeekerV2_7qG2_cResp_7qG2_000, __RLSBytesCountVar
+6	46	347		mov __HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000, __RLSReadBufVar
+6	46	349		release __RLSBmutex0
+6	46	350		release __RLSBmutex1
+6	46	351		release __RLSBmutex2
+6	46	352		release __RLSBmutex3
+6	6909	353	#line 6909 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	45	353	#line 45 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	46	353		mov __HTEnhancedIRSeekerV2_7qG2_fSuccess_7qG2_000, __D0HTEnhancedIRSeekerV2
+6	45	355	#line 45 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	45	355	#line 45 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	46	355	#line 46 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	47	355		mov __DU0HTEnhancedIRSeekerV2, __D0HTEnhancedIRSeekerV2
+6	47	357	#line 47 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	48	357		tst 5, __zfHTEnhancedIRSeekerV2, __DU0HTEnhancedIRSeekerV2
+6	47	360	#line 47 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	48	360		brtst 4, __NXC_Label_703, __zfHTEnhancedIRSeekerV2
+6	47	363	#line 47 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	48	363		set __signed_stack_001HTEnhancedIRSeekerV2, 0
+6	47	366	#line 47 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	47	366	#line 47 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	48	366		index __ArrHelper__HTEnhancedIRSeekerV2_98_0, __HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000, __signed_stack_001HTEnhancedIRSeekerV2
+6	47	370	#line 47 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	48	370		mov __HTEnhancedIRSeekerV2_7qG2_dir_7qG2_000, __ArrHelper__HTEnhancedIRSeekerV2_98_0
+6	48	372	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	48	372	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	48	372	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	49	372		mov __signed_stack_001HTEnhancedIRSeekerV2, __ArrHelper__HTEnhancedIRSeekerV2_98_0
+6	48	374	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	48	374	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	49	374		set __D0HTEnhancedIRSeekerV2, 0
+6	48	377	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	49	377		cmp 1, __zfHTEnhancedIRSeekerV2, __signed_stack_001HTEnhancedIRSeekerV2, __D0HTEnhancedIRSeekerV2
+6	48	381	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	49	381		mov __D0HTEnhancedIRSeekerV2, __zfHTEnhancedIRSeekerV2
+6	48	383	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	49	383		brtst 4, __NXC_Label_710, __zfHTEnhancedIRSeekerV2
+6	48	386	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	49	386		set __HTEnhancedIRSeekerV2_7qG2_i_7qG2_000, 1
+6	48	389	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	48	389	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	49	389		mov __signed_stack_001HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_7qG2_i_7qG2_000
+6	48	391	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	48	391	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	49	391		set __D0HTEnhancedIRSeekerV2, 5
+6	48	394	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	49	394		cmp 2, __zfHTEnhancedIRSeekerV2, __signed_stack_001HTEnhancedIRSeekerV2, __D0HTEnhancedIRSeekerV2
+6	48	398	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	49	398		mov __D0HTEnhancedIRSeekerV2, __zfHTEnhancedIRSeekerV2
+6	48	400	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	49	400		brtst 4, __NXC_Label_712, __zfHTEnhancedIRSeekerV2
+6	48	403	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	49	403		jmp __NXC_Label_713
+6	48	405	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	49	405		add __HTEnhancedIRSeekerV2_7qG2_i_7qG2_000, __HTEnhancedIRSeekerV2_7qG2_i_7qG2_000, __constVal1
+6	48	409	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	49	409		jmp __NXC_Label_711
+6	48	411	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	49	411		mov __signed_stack_001HTEnhancedIRSeekerV2, __HTEnhancedIRSeekerV2_7qG2_i_7qG2_000
+6	48	413	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	48	413	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	49	413		index __ArrHelper__HTEnhancedIRSeekerV2_98_0, __HTEnhancedIRSeekerV2_7qG2_respBuf_7qG2_000, __signed_stack_001HTEnhancedIRSeekerV2
+6	48	417	#line 48 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	49	417	#line 49 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	50	417		add __HTEnhancedIRSeekerV2_7qG2_strength_7qG2_000, __HTEnhancedIRSeekerV2_7qG2_strength_7qG2_000, __ArrHelper__HTEnhancedIRSeekerV2_98_0
+6	49	421	#line 49 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	49	421	#line 49 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	50	421		jmp __NXC_Label_714
+6	49	423	#line 49 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	50	423	#line 50 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	51	423	#line 51 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	52	423	#line 52 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	57	423	#line 57 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	57	423	#line 57 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+6	58	423		subret __HTEnhancedIRSeekerV2_return
+7	61	0	#line 61 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+7	62	0	#pragma macro 30
+7	62	0		acquire __RLSBmutex1
+7	62	1		mov __RLSReadBuf1, __RLSBbufLSWrite1
+7	62	3		set __RLSBytesCount1, 2
+7	62	6		subcall __ReadLSBytes1, ____ReadLSBytes1_return
+7	62	8		index __D0compaswaarde, __RLSReadBuf1, 65535
+7	62	12		index __RLSBytesCount1, __RLSReadBuf1, __constVal1
+7	62	16		add __D0compaswaarde, __D0compaswaarde, __D0compaswaarde
+7	62	20		add __D0compaswaarde, __D0compaswaarde, __RLSBytesCount1
+7	62	24		release __RLSBmutex1
+7	7019	25	#line 7019 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+7	61	25	#line 61 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+7	76	25	#line 76 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+7	76	25	#line 76 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+7	77	25		sub __D0compaswaarde, __D0compaswaarde, beginwaarde
+7	76	29	#line 76 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+7	77	29		subret __compaswaarde_return
+7	76	31	#line 76 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+7	76	31	#line 76 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+7	78	31	#line 78 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+7	79	31		subret __compaswaarde_return
+8	81	0	#line 81 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+8	82	0	#pragma macro 7
+8	82	0		setout __OUT_AC, 2, __constVal0, 1, __constVal3, 8, __constVal0, 6, __constVal32, 7, __constVal0, 5, __constVal0, 10, __constVal96, 11, __constVal32, 12, __constVal32, 0, __constVal63
+8	7038	23	#line 7038 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+8	81	23	#line 81 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+8	81	23	#line 81 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+8	82	23		set __signed_stack_001kicken, -100
+8	81	26	#line 81 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+8	81	26	#line 81 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+8	82	26		set __D0kicken, 25
+8	82	29	#line 82 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+8	83	29	#pragma macro 33
+8	83	29		arrbuild __rotate_ports1, __constVal1
+8	83	33		mov __rotate_power1, __signed_stack_001kicken
+8	83	35		mov __rotate_angle1, __D0kicken
+8	83	37		mov __rotate_turnpct1, __constVal0
+8	83	39		mov __rotate_sync1, __constVal0
+8	83	41		mov __rotate_stop1, __constVal1
+8	83	43		mov __rotate_theRVP1, __constVal32
+8	83	45		mov __rotate_theRVI1, __constVal0
+8	83	47		mov __rotate_theRVD1, __constVal96
+8	83	49		subcall __RotateMotor1, ____RotateMotor1_return
+8	7051	51	#line 7051 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+8	82	51	#line 82 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+8	82	51	#line 82 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+8	83	51		set __signed_stack_001kicken, 100
+8	82	54	#line 82 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+8	82	54	#line 82 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+8	83	54		set __D0kicken, 25
+8	83	57	#line 83 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+8	84	57	#pragma macro 33
+8	84	57		arrbuild __rotate_ports1, __constVal1
+8	84	61		mov __rotate_power1, __signed_stack_001kicken
+8	84	63		mov __rotate_angle1, __D0kicken
+8	84	65		mov __rotate_turnpct1, __constVal0
+8	84	67		mov __rotate_sync1, __constVal0
+8	84	69		mov __rotate_stop1, __constVal1
+8	84	71		mov __rotate_theRVP1, __constVal32
+8	84	73		mov __rotate_theRVI1, __constVal0
+8	84	75		mov __rotate_theRVD1, __constVal96
+8	84	77		subcall __RotateMotor1, ____RotateMotor1_return
+8	7064	79	#line 7064 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+8	83	79	#line 83 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+8	85	79	#line 85 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+8	86	79		subret __kicken_return
+9	87	0	#line 87 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	88	0		subcall compaswaarde, __compaswaarde_return
+9	87	2	#line 87 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	88	2		mov __signed_stack_001richten, __D0compaswaarde
+9	87	4	#line 87 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	88	4	#line 88 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	89	4		set __D0richten, 5
+9	88	7	#line 88 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	89	7		cmp 1, __zfrichten, __signed_stack_001richten, __D0richten
+9	88	11	#line 88 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	89	11		mov __D0richten, __zfrichten
+9	89	13	#line 89 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	90	13		brtst 4, __NXC_Label_735, __zfrichten
+9	89	16	#line 89 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	90	16		set __D0richten, 50
+9	90	19	#line 90 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	91	19	#pragma macro 7
+9	91	19		setout __constVal0, 2, __D0richten, 1, __constVal3, 8, __constVal0, 6, __constVal32, 7, __constVal0, 5, __constVal0, 10, __constVal96, 11, __constVal32, 12, __constVal32, 0, __constVal63
+9	7092	42	#line 7092 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	90	42	#line 90 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	90	42	#line 90 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	91	42		set __D0richten, -50
+9	91	45	#line 91 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	92	45	#pragma macro 7
+9	92	45		setout __constVal2, 2, __D0richten, 1, __constVal3, 8, __constVal0, 6, __constVal32, 7, __constVal0, 5, __constVal0, 10, __constVal96, 11, __constVal32, 12, __constVal32, 0, __constVal63
+9	7099	68	#line 7099 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	91	68	#line 91 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	92	68	#line 92 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	92	68	#line 92 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	93	68		subcall compaswaarde, __compaswaarde_return
+9	92	70	#line 92 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	93	70		mov __signed_stack_001richten, __D0compaswaarde
+9	92	72	#line 92 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	93	72	#line 93 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	94	72		set __D0richten, -5
+9	93	75	#line 93 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	94	75		cmp 0, __zfrichten, __signed_stack_001richten, __D0richten
+9	93	79	#line 93 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	94	79		mov __D0richten, __zfrichten
+9	94	81	#line 94 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	95	81		brtst 4, __NXC_Label_742, __zfrichten
+9	94	84	#line 94 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	95	84		set __D0richten, -50
+9	95	87	#line 95 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	96	87	#pragma macro 7
+9	96	87		setout __constVal0, 2, __D0richten, 1, __constVal3, 8, __constVal0, 6, __constVal32, 7, __constVal0, 5, __constVal0, 10, __constVal96, 11, __constVal32, 12, __constVal32, 0, __constVal63
+9	7124	110	#line 7124 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	95	110	#line 95 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	95	110	#line 95 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	96	110		set __D0richten, 50
+9	96	113	#line 96 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	97	113	#pragma macro 7
+9	97	113		setout __constVal2, 2, __D0richten, 1, __constVal3, 8, __constVal0, 6, __constVal32, 7, __constVal0, 5, __constVal0, 10, __constVal96, 11, __constVal32, 12, __constVal32, 0, __constVal63
+9	7131	136	#line 7131 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	96	136	#line 96 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	97	136	#line 97 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	97	136	#line 97 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	98	136		subcall compaswaarde, __compaswaarde_return
+9	97	138	#line 97 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	98	138		mov __D0richten, __D0compaswaarde
+9	97	140	#line 97 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	98	140		abs __signed_stack_001richten, __D0richten
+9	97	143	#line 97 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	98	143	#line 98 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	99	143		set __D0richten, 5
+9	98	146	#line 98 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	99	146		cmp 2, __zfrichten, __signed_stack_001richten, __D0richten
+9	98	150	#line 98 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	99	150		mov __D0richten, __zfrichten
+9	99	152	#line 99 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	100	152		brtst 4, __NXC_Label_751, __zfrichten
+9	100	155	#line 100 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	101	155		subcall kicken, __kicken_return
+9	100	157	#line 100 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	103	157	#line 103 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	103	157	#line 103 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+9	104	157		subret __richten_return
+10	105	0	#line 105 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	106	0		mov __signed_stack_001Sturen, __Sturen_7qG2_richting_7qG2_000
+10	105	2	#line 105 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	106	2	#line 106 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	107	2		set __D0Sturen, 5
+10	106	5	#line 106 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	107	5		cmp 0, __zfSturen, __signed_stack_001Sturen, __D0Sturen
+10	106	9	#line 106 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	107	9		mov __D0Sturen, __zfSturen
+10	107	11	#line 107 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	108	11		brtst 4, __NXC_Label_754, __zfSturen
+10	107	14	#line 107 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	108	14		set __D0Sturen, 35
+10	108	17	#line 108 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	109	17	#pragma macro 7
+10	109	17		setout __constVal0, 2, __D0Sturen, 1, __constVal3, 8, __constVal0, 6, __constVal32, 7, __constVal0, 5, __constVal0, 10, __constVal96, 11, __constVal32, 12, __constVal32, 0, __constVal63
+10	7192	40	#line 7192 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	108	40	#line 108 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	108	40	#line 108 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	109	40		set __D0Sturen, -35
+10	109	43	#line 109 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	110	43	#pragma macro 7
+10	110	43		setout __constVal2, 2, __D0Sturen, 1, __constVal3, 8, __constVal0, 6, __constVal32, 7, __constVal0, 5, __constVal0, 10, __constVal96, 11, __constVal32, 12, __constVal32, 0, __constVal63
+10	7199	66	#line 7199 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	109	66	#line 109 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	110	66	#line 110 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	110	66	#line 110 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	111	66		mov __signed_stack_001Sturen, __Sturen_7qG2_richting_7qG2_000
+10	110	68	#line 110 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	111	68	#line 111 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	112	68		set __D0Sturen, 5
+10	111	71	#line 111 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	112	71		cmp 1, __zfSturen, __signed_stack_001Sturen, __D0Sturen
+10	111	75	#line 111 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	112	75		mov __D0Sturen, __zfSturen
+10	112	77	#line 112 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	113	77		brtst 4, __NXC_Label_761, __zfSturen
+10	112	80	#line 112 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	113	80		set __D0Sturen, -35
+10	113	83	#line 113 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	114	83	#pragma macro 7
+10	114	83		setout __constVal0, 2, __D0Sturen, 1, __constVal3, 8, __constVal0, 6, __constVal32, 7, __constVal0, 5, __constVal0, 10, __constVal96, 11, __constVal32, 12, __constVal32, 0, __constVal63
+10	7222	106	#line 7222 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	113	106	#line 113 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	113	106	#line 113 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	114	106		set __D0Sturen, 35
+10	114	109	#line 114 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	115	109	#pragma macro 7
+10	115	109		setout __constVal2, 2, __D0Sturen, 1, __constVal3, 8, __constVal0, 6, __constVal32, 7, __constVal0, 5, __constVal0, 10, __constVal96, 11, __constVal32, 12, __constVal32, 0, __constVal63
+10	7229	132	#line 7229 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	114	132	#line 114 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	121	132	#line 121 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	121	132	#line 121 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+10	122	132		subret __Sturen_return
+11	180	0	#line 180 "C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc"
+11	181	0		subret ____initialize_global_data_return
+#CLUMPS
+Clump	Name	Offset	File
+0	main	0	C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc
+1	__RotateMotor1	549	NXTDefs.h
+2	__ResetSensorSubroutine	703	NXTDefs.h
+3	__ReadLSBytes1	716	NXTDefs.h
+4	__ReadLSBytes2	800	NXTDefs.h
+5	__ReadLSBytesVar	884	NXTDefs.h
+6	HTEnhancedIRSeekerV2	983	C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc
+7	compaswaarde	1408	C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc
+8	kicken	1441	C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc
+9	richten	1522	C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc
+10	Sturen	1681	C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc
+11	__initialize_global_data	1815	C:\Users\Mees\Documents\GitHub\NXT-voetbal\Verdediger.nxc

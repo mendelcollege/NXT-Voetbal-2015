@@ -10,7 +10,6 @@ prioriteiten:
  #define AFSTANDSSENSOR SensorUS(IN_3)
  #define ZIJBUFFER 50
  #define WIT 50
- #define IRVOORUIT 5
  
 void HTEnhancedIRSeekerV2(const byte  port, int &dir, int &strength)
 {
@@ -80,15 +79,8 @@ int compaswaarde()
 void kicken()
 {
    Off(OUT_AC);
-   RotateMotor(OUT_B, 100, 30);
-   RotateMotor(OUT_B, -100, 30);
-/*   OnFwd(OUT_B, -100);
-   Wait(100);
-   Off(OUT_B);
-   OnFwd(OUT_B, 100);
-   Wait(100);
-   Off(OUT_B);
-*/
+   RotateMotor(OUT_B, 100, 25);
+   RotateMotor(OUT_B, -100, 25);
 }
 
 void richten()
@@ -111,20 +103,19 @@ void richten()
 
 void Sturen(int richting, int afstand)
 {
-   if(richting < IRVOORUIT)
+   if(richting < 5)
    {
-      OnFwd(OUT_A, 50);
-      OnFwd(OUT_C, -50);
+      OnFwd(OUT_A, 35);
+      OnFwd(OUT_C, -35);
    }
-   if(richting > IRVOORUIT)
+   if(richting > 5)
    {
-      OnFwd(OUT_A, -50);
-      OnFwd(OUT_C, 50);
+      OnFwd(OUT_A, -35);
+      OnFwd(OUT_C, 35);
    }
-   if(richting == IRVOORUIT)
+   if(richting == 5)
    {
-      Wait(300);
-      OnFwdSync(OUT_AC, -70, 0);
+      OnFwdSync(OUT_AC, -100, 0);
    }
 }
 
@@ -178,7 +169,7 @@ while(true)
        TextOut(0, LCD_LINE7, "zoeken");
        Sturen(richting, afstand);
     }
-    if(afstand > 150 && richting == IRVOORUIT)                //kicken
+    if(afstand > 150 && richting == 5)                //kicken
     {
        TextOut(0, LCD_LINE7, "kicken");
        richten();
