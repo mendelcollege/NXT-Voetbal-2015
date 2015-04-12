@@ -125,7 +125,7 @@ void ZijLijn()
    if(AFSTANDSSENSOR < ZIJBUFFER){
       OnFwd(OUT_C, -40);
       OnFwd(OUT_A, 40);
-      until(abs(compaswaarde()) < 5);
+      Until(abs(compaswaarde()) < 5);
       Wait(500);
       OnFwd(OUT_AC, -100);
       Wait(500);
@@ -134,7 +134,7 @@ void ZijLijn()
     else if(AFSTANDSSENSOR > ZIJBUFFER){
       OnFwd(OUT_A, -40);
       OnFwd(OUT_C, 40);
-      until(abs(compaswaarde()) < 5);
+      Until(abs(compaswaarde()) < 5);
       Wait(500);
       OnFwd(OUT_AC, -100);
       Wait(500);
